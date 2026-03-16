@@ -8,15 +8,15 @@ import { Alert, AlertDescription } from "@/components/ui/alert"
 import { AlertTriangle } from "lucide-react"
 
 const turnSchedules = {
-  1: { range: "17 a 19", time: "5am a 7am" },
-  2: { range: "16 a 19", time: "7am a 9am" },
-  3: { range: "15 a 19", time: "9am a 11am" },
-  4: { range: "14 a 19", time: "11am a 13am" },
-  5: { range: "13 a 19", time: "13am a 15am" },
-  6: { range: "12 a 19", time: "15am a 17am" },
-  7: { range: "11 a 19", time: "17am a 19am" },
-  8: { range: "10 a 19", time: "19am a 21am" },
-  9: { range: "0 a 19", time: "21am a 23am" },
+  1: { range: "17 a 19", time: "5 am a 7 am" },
+  2: { range: "16 a 19", time: "7 am a 9 am" },
+  3: { range: "15 a 19", time: "9 am a 11 am" },
+  4: { range: "14 a 19", time: "11 am a 1 pm" },
+  5: { range: "13 a 19", time: "1 pm a 3 pm" },
+  6: { range: "12 a 19", time: "3 pm a 5 pm" },
+  7: { range: "11 a 19", time: "5 pm a 7 pm" },
+  8: { range: "10 a 19", time: "7 pm a 9 pm" },
+  9: { range: "0 a 19", time: "9 pm a 11 pm" },
 }
 
 function calculateTurn(average: number): number {
@@ -90,8 +90,8 @@ export default function CalculatorSection() {
           <AlertTriangle className="h-4 w-4 text-yellow-600" />
           <AlertDescription className="text-sm text-yellow-800 leading-relaxed">
             <strong>Importante:</strong> En caso de haber presentado algún problema con la matrícula web deben realizar
-            su matrícula presencial el jueves 07 de Agosto en la Unidad de Matrícula de la FISI de 8:00 a.m. a 13:00
-            p.m. y de 14:00 p.m. a 16:00 p.m.
+            su matrícula presencial el viernes 20 de Marzo en la Unidad de Matrícula de la FISI de 8:00 a.m. a 1:00
+            p.m. y de 2:00 p.m. a 4:00 p.m.
           </AlertDescription>
         </Alert>
 
