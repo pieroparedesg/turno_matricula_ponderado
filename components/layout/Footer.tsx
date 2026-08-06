@@ -89,7 +89,7 @@ export default function Footer() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="border-t border-gray-700 mt-8 pt-8 text-right"
         >
-          <p className="text-gray-400">Desarrollado por Piero Paredes y Landry Bardales</p>
+          <p className="text-gray-400">Desarrollado por Código Fisiano</p>
         </motion.div>
       </div>
     </footer>

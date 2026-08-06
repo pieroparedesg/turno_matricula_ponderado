@@ -89,9 +89,9 @@ export default function CalculatorSection() {
         <Alert className="bg-yellow-50 border-yellow-300 border-l-4 border-l-yellow-500">
           <AlertTriangle className="h-4 w-4 text-yellow-600" />
           <AlertDescription className="text-sm text-yellow-800 leading-relaxed">
-            <strong>Importante:</strong> En caso de haber presentado algún problema con la matrícula web deben realizar
-            su matrícula presencial el viernes 20 de Marzo en la Unidad de Matrícula de la FISI de 8:00 a.m. a 1:00
-            p.m. y de 2:00 p.m. a 4:00 p.m.
+            <strong>Importante:</strong> El viernes 14 de agosto y en MODO PRESENCIAL se realizará la matrícula
+            para alumnos que tuvieron inconvenientes con la matrícula web, la atención se realizará
+            de 8:00 a.m. a 1:00 p.m. y de 2:00 p.m. a 4:00 p.m.
           </AlertDescription>
         </Alert>
 

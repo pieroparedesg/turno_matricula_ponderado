@@ -4,15 +4,15 @@ import { motion } from "framer-motion"
 import { Clock } from "lucide-react"
 
 const scheduleData = [
-  { turn: 1, time: "5 am a 7 am", grade: "17 a 19" },
-  { turn: 2, time: "7 am a 9 am", grade: "16 a 19" },
-  { turn: 3, time: "9 am a 11 am", grade: "15 a 19" },
-  { turn: 4, time: "11 am a 1 pm", grade: "14 a 19" },
-  { turn: 5, time: "1 pm a 3 pm", grade: "13 a 19" },
-  { turn: 6, time: "3 pm a 5 pm", grade: "12 a 19" },
-  { turn: 7, time: "5 pm a 7 am", grade: "11 a 19" },
-  { turn: 8, time: "7 pm a 9 pm", grade: "10 a 19" },
-  { turn: 9, time: "9 pm a 11 pm", grade: "0 a 19" },
+  { turn: 1, time: "6 am a 8 am", grade: "17 a 19" },
+  { turn: 2, time: "8 am a 10 am", grade: "16 a 19" },
+  { turn: 3, time: "10 am a 12 pm", grade: "15 a 19" },
+  { turn: 4, time: "12 pm a 2 pm", grade: "14 a 19" },
+  { turn: 5, time: "2 pm a 4 pm", grade: "13 a 19" },
+  { turn: 6, time: "4 pm a 6 pm", grade: "12 a 19" },
+  { turn: 7, time: "6 pm a 8 pm", grade: "11 a 19" },
+  { turn: 8, time: "8 pm a 10 pm", grade: "10 a 19" },
+  { turn: 9, time: "10 pm a 11:59 pm", grade: "0 a 19" },
 ]
 
 export default function ScheduleTable() {
@@ -41,7 +41,7 @@ export default function ScheduleTable() {
           transition={{ duration: 0.5, delay: 0.8 }}
           className="text-2xl font-bold text-gray-800"
         >
-          Matricula de estudiantes REGULARES: 16 de Marzo
+          Matricula de estudiantes REGULARES: 10 de Agosto
         </motion.h3>
       </div>
 
