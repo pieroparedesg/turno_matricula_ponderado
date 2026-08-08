@@ -6,7 +6,7 @@ import Link from "next/link"
 const navItems = [
   { name: "INICIO", href: "/", internal: true },
   { name: "TURNO DE MATRÍCULA", href: "/turno", internal: true },
-  { name: "PLANIFICADOR DE HORARIO", href: "https://kalriot.github.io/Planififcador-de-horarios_fisi/", internal: false },
+  { name: "PLANIFICADOR DE HORARIO", href: "/planificador", internal: true },
   { name: "FISIANOTECA", href: "https://drive.google.com/drive/folders/1YJUzP6rZRGTUWPi21SfLbt7XlPPFSuBZ?usp=sharing", internal: false },
   { name: "NOTICIAS", href: "#", internal: false },
 ]
@@ -16,7 +16,6 @@ export default function Header() {
     <header className="bg-white shadow-sm border-b border-gray-200">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
-          {/* Logo */}
           <motion.div
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
@@ -38,11 +37,7 @@ export default function Header() {
             </div>
           </motion.div>
 
-          {/* Navigation */}
-          {/* Textos ocultos temporalmente a pedido del usuario: la lógica de rutas/links
-              sigue intacta abajo. Para reactivar la visualización, quitar el style de
-              display: "none" de este <nav>. */}
-          <nav className="hidden md:flex items-center space-x-8" style={{ display: "none" }}>
+          <nav className="hidden md:flex items-center space-x-8">
             {navItems.map((item, index) => (
               <motion.span
                 key={item.name}
@@ -59,7 +54,6 @@ export default function Header() {
             ))}
           </nav>
 
-          {/* Mobile menu button */}
           <div className="md:hidden">
             <button className="text-gray-700 hover:text-[#b20000] transition-colors">
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

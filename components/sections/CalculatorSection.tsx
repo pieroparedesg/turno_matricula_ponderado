@@ -58,7 +58,7 @@ export default function CalculatorSection() {
       className="bg-white rounded-lg shadow-lg p-8"
     >
       <div className="space-y-6">
-        {/* Input Section */}
+
         <div>
           <label htmlFor="average" className="block text-sm font-medium text-gray-700 mb-3">
             Promedio ponderado
@@ -76,7 +76,7 @@ export default function CalculatorSection() {
           />
         </div>
 
-        {/* Calculate Button */}
+
         <Button
           onClick={handleCalculate}
           disabled={!isValidInput()}
@@ -85,7 +85,7 @@ export default function CalculatorSection() {
           CALCULAR TURNO
         </Button>
 
-        {/* Warning Alert */}
+
         <Alert className="bg-yellow-50 border-yellow-300 border-l-4 border-l-yellow-500">
           <AlertTriangle className="h-4 w-4 text-yellow-600" />
           <AlertDescription className="text-sm text-yellow-800 leading-relaxed">
@@ -95,7 +95,7 @@ export default function CalculatorSection() {
           </AlertDescription>
         </Alert>
 
-        {/* Result Section */}
+
         <AnimatePresence>
           {showResult && calculatedTurn && (
             <motion.div
