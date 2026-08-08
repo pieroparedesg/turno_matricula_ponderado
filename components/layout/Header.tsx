@@ -39,7 +39,10 @@ export default function Header() {
           </motion.div>
 
           {/* Navigation */}
-          <nav className="hidden md:flex items-center space-x-8">
+          {/* Textos ocultos temporalmente a pedido del usuario: la lógica de rutas/links
+              sigue intacta abajo. Para reactivar la visualización, quitar el style de
+              display: "none" de este <nav>. */}
+          <nav className="hidden md:flex items-center space-x-8" style={{ display: "none" }}>
             {navItems.map((item, index) => (
               <motion.span
                 key={item.name}
