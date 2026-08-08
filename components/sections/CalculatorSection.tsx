@@ -8,15 +8,15 @@ import { Alert, AlertDescription } from "@/components/ui/alert"
 import { AlertTriangle } from "lucide-react"
 
 const turnSchedules = {
-  1: { range: "17 a 19", time: "5 am a 7 am" },
-  2: { range: "16 a 19", time: "7 am a 9 am" },
-  3: { range: "15 a 19", time: "9 am a 11 am" },
-  4: { range: "14 a 19", time: "11 am a 1 pm" },
-  5: { range: "13 a 19", time: "1 pm a 3 pm" },
-  6: { range: "12 a 19", time: "3 pm a 5 pm" },
-  7: { range: "11 a 19", time: "5 pm a 7 pm" },
-  8: { range: "10 a 19", time: "7 pm a 9 pm" },
-  9: { range: "0 a 19", time: "9 pm a 11 pm" },
+  1: { range: "17 a 19", time: "6 am a 8 am" },
+  2: { range: "16 a 19", time: "8 am a 10 am" },
+  3: { range: "15 a 19", time: "10 am a 12 pm" },
+  4: { range: "14 a 19", time: "12 pm a 2 pm" },
+  5: { range: "13 a 19", time: "2 pm a 4 pm" },
+  6: { range: "12 a 19", time: "4 pm a 6 pm" },
+  7: { range: "11 a 19", time: "6 pm a 8 pm" },
+  8: { range: "10 a 19", time: "8 pm a 10 pm" },
+  9: { range: "0 a 19", time: "10 pm a 11:59 pm" },
 }
 
 function calculateTurn(average: number): number {
