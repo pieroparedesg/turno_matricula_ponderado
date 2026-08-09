@@ -1,0 +1,503 @@
+                              REPORTE DE PROGRAMACIÓN DE ASIGNATURAS
+
+         Código de Matrícula         : 24200151
+         Nombres y Apellidos         : BARDALES GUADALUPE LANDRY NICOL
+         Facultad                    : 20 - INGENIERÍA DE SISTEMAS E INFORMÁTICA
+         Escuela                     : 2 - E.P. De Ingeniería De Software
+         Especialidad                : 0 - Estudios Generales
+         Plan                        : 2023 - Plan De Estudios 2023
+         Periodo Académico           : 2026-2
+         Fecha Impresión             : Saturday, 8 August de 2026 14:15:38 PM
+
+CICLO 1
+
+         Asignatura           Créd.  Sec.  Docente                         Tope  Matri. Aula            Día  Horas Clase
+                               4.0                                           5               107  MIERCOLES  08:00 - 10:00
+202SW0104 - CÁLCULO I          4.0   1     0A2021 - LLERENA LUCERO,          5                    MIERCOLES  10:00 - 14:00
+                               2.0         TEODORO ALFREDO                  14      0                        08:00 - 10:00
+                               2.0                                          14               107     LUNES   10:00 - 14:00
+202SW0106 - ALGEBRA Y          2.0   1 --                                   14               107     LUNES   08:00 - 09:00
+GEOMETRÍA ANALÍTICA I          2.0                                          14                       JUEVES  09:00 - 11:00
+                               2.0   1     15584946 - DIONICIO MEJÍA,       14      0                JUEVES  11:00 - 12:00
+202SW0E02 - EMPRENDIMIENTO E   2.0         CARMEN VIOLETA                   14               107     JUEVES  12:00 - 14:00
+INNOVACIÓN                                                                                           JUEVES  08:00 - 09:00
+                                     2     43091255 - HUAMAN TINCO, BORJA                  109NP     JUEVES  09:00 - 11:00
+202SW0E02 - EMPRENDIMIENTO E               LUIS                                     0                JUEVES  11:00 - 12:00
+INNOVACIÓN                                                                                           JUEVES  12:00 - 14:00
+                                     3     10275035 - ORELLANA MANRIQUE,                   109NP     JUEVES  08:00 - 09:00
+202SW0E02 - EMPRENDIMIENTO E               YOLANDA OLIVIA                                  108NP    SABADO   09:00 - 11:00
+INNOVACIÓN                                                                          0               SABADO   11:00 - 12:00
+                                     4     10275035 - ORELLANA MANRIQUE,                   108NP    SABADO   12:00 - 14:00
+202SW0E02 - EMPRENDIMIENTO E               YOLANDA OLIVIA                                  106NP    SABADO
+INNOVACIÓN                                                                          0
+                                     5     41388541 - AGUILAR CORONEL,                     106NP
+202SW0E02 - EMPRENDIMIENTO E               JHONATHAN                                       103NP
+INNOVACIÓN                                                                          0
+                                     6     41388541 - AGUILAR CORONEL,                     103NP
+202SW0E02 - EMPRENDIMIENTO E               JHONATHAN                                       102NP
+INNOVACIÓN                                                                          0
+                                                                                           102NP
+
+                                                                                             102
+                                                                                    0
+
+                                                                                             102
+
+CICLO 2                       Créd.  Sec.  Docente                         Tope  Matri. Aula          Día    Horas Clase
+                               3.0                                          14                    VIERNES    08:00 - 10:00
+                  Asignatura   3.0   1     15584946 - DIONICIO MEJÍA,                      109NP  VIERNES    10:00 - 12:00
+                               3.0         CARMEN VIOLETA                           0                        08:00 - 10:00
+202SW0201 - REDACCIÓN Y        3.0                                                                           10:00 - 12:00
+TÉCNICAS DE COMUNICACIÓN       3.0                                                         109NP             08:00 - 10:00
+EFECTIVA II                    3.0                                                                           10:00 - 12:00
+                               3.0         70434046 - CORONEL TELLO, ANA             108NP SABADO            08:00 - 10:00
+202SW0201 - REDACCIÓN Y                    EYLIN                                                             10:00 - 12:00
+TÉCNICAS DE COMUNICACIÓN             2                                     14     0  108NP SABADO            08:00 - 10:00
+EFECTIVA II                                                                                                  10:00 - 12:00
+                                           15584946 - DIONICIO MEJÍA,                106NP MIERCOLES         08:00 - 10:00
+202SW0201 - REDACCIÓN Y                    CARMEN VIOLETA                                                    10:00 - 12:00
+TÉCNICAS DE COMUNICACIÓN             3                                     14     0  106NP MIERCOLES         08:00 - 10:00
+EFECTIVA II                                                                                                  10:00 - 12:00
+                                           70434046 - CORONEL TELLO, ANA             103NP MIERCOLES
+202SW0201 - REDACCIÓN Y                    EYLIN
+TÉCNICAS DE COMUNICACIÓN             4                                     14     0  103NP MIERCOLES
+EFECTIVA II
+                                           15584946 - DIONICIO MEJÍA,                102NP MARTES
+202SW0201 - REDACCIÓN Y                    CARMEN VIOLETA
+TÉCNICAS DE COMUNICACIÓN             5                                     14     0  102NP MARTES
+EFECTIVA II
+                                           70434046 - CORONEL TELLO, ANA             102          LUNES
+202SW0201 - REDACCIÓN Y                    EYLIN
+TÉCNICAS DE COMUNICACIÓN             6                                     14     0  102          LUNES
+EFECTIVA II
+                                     1     09620253 - COLCA GARCIA, HEDDY  14     0  109NP SABADO
+202SW0202 - INVESTIGACIÓN                  LILIANA
+FORMATIVA                                                                            109NP SABADO
+
+                                                                                                  Página 1
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+202SW0202 - INVESTIGACIÓN      3.0  2  09620253 - COLCA GARCIA, HEDDY  14         108NP VIERNES  14:00 - 16:00
+FORMATIVA                              LILIANA                             0                     16:00 - 18:00
+
+                                                                                  108NP VIERNES
+
+202SW0202 - INVESTIGACIÓN      3.0  3  41570960 - SANTISTEBAN PAZOS,   14         106NP SABADO   08:00 - 10:00
+FORMATIVA                              JOSE LUIS                           0                     10:00 - 12:00
+
+                                                                                  106NP SABADO
+
+202SW0202 - INVESTIGACIÓN      3.0  4  07778143 - CHINCARO EGUSQUIZA,  14         103NP SABADO   08:00 - 10:00
+FORMATIVA                              LUCY CRISTINA                       0                     10:00 - 12:00
+
+                                                                                  103NP SABADO
+
+202SW0202 - INVESTIGACIÓN      3.0  5  41570960 - SANTISTEBAN PAZOS,   14         102NP VIERNES  08:00 - 10:00
+FORMATIVA                              JOSE LUIS                           0                     10:00 - 12:00
+
+                                                                                  102NP VIERNES
+
+202SW0202 - INVESTIGACIÓN      3.0  6 --                               14           102 VIERNES 14:00 - 16:00
+FORMATIVA                                                                  0
+
+                                                                                    102 VIERNES 16:00 - 18:00
+
+202SW0203 - REALIDAD NACIONAL  2.0  1  06326376 - COSME FÉLIX, MIRYAM  14         109NP JUEVES   11:00 - 12:00
+Y MUNDIAL                              MILAGROS                            0                     12:00 - 14:00
+
+                                                                                  109NP JUEVES
+
+202SW0203 - REALIDAD NACIONAL  2.0  2  06326376 - COSME FÉLIX, MIRYAM  14         108NP JUEVES   08:00 - 09:00
+Y MUNDIAL                              MILAGROS                            0                     09:00 - 11:00
+
+                                                                                  108NP JUEVES
+
+202SW0203 - REALIDAD NACIONAL  2.0  3  21289682 - BASUALDO PORRAS,     14         106NP JUEVES   11:00 - 12:00
+Y MUNDIAL                              LUZ                                 0                     12:00 - 14:00
+
+                                                                                  106NP JUEVES
+
+202SW0203 - REALIDAD NACIONAL  2.0  4  21289682 - BASUALDO PORRAS,     14         103NP JUEVES   08:00 - 09:00
+Y MUNDIAL                              LUZ                                 0                     09:00 - 11:00
+
+                                                                                  103NP JUEVES
+
+202SW0203 - REALIDAD NACIONAL  2.0  5  21289682 - BASUALDO PORRAS,     14         102NP SABADO   11:00 - 12:00
+Y MUNDIAL                              LUZ                                 0                     12:00 - 14:00
+
+                                                                                  102NP SABADO
+
+202SW0203 - REALIDAD NACIONAL  2.0  6  21289682 - BASUALDO PORRAS,     14           102 SABADO 08:00 - 09:00
+Y MUNDIAL                              LUZ                                 0
+
+                                                                                    102 SABADO 09:00 - 11:00
+
+202SW0204 - CÁLCULO II         4.0  1 --                               14         109NP LUNES    08:00 - 10:00
+                                                                           0                     10:00 - 14:00
+
+                                                                                  109NP MARTES
+
+202SW0204 - CÁLCULO II         4.0  2  40667934 - TERREROS NAVARRO,    14         108NP LUNES    08:00 - 10:00
+                                       HELLEN GLORIA                       0                     10:00 - 14:00
+
+                                                                                  108NP MARTES
+
+202SW0204 - CÁLCULO II         4.0  3 --                               14         106NP MARTES   08:00 - 10:00
+                                                                           0                     10:00 - 14:00
+
+                                                                                  106NP LUNES
+
+202SW0204 - CÁLCULO II         4.0  4  40667934 - TERREROS NAVARRO,    14         103NP MARTES   10:00 - 12:00
+                                       HELLEN GLORIA                       0                     10:00 - 14:00
+
+                                                                                  103NP LUNES
+
+202SW0204 - CÁLCULO II         4.0  5  40667934 - TERREROS NAVARRO,    14         102NP JUEVES   10:00 - 12:00
+                                       HELLEN GLORIA                       0                     10:00 - 14:00
+
+                                                                                  102NP JUEVES
+
+202SW0204 - CÁLCULO II         4.0  6 --                               14           102 MIERCOLES 08:00 - 10:00
+                                                                           0
+
+                                                                                    102 MIERCOLES 10:00 - 14:00
+
+202SW0205 - FÍSICA I           4.0  1 --                               14         109NP MARTES   08:00 - 10:00
+                                                                           0                     10:00 - 13:00
+
+                                                                                  109NP LUNES
+
+202SW0205 - FÍSICA I           4.0  2 --                               14         108NP MARTES   08:00 - 10:00
+                                                                           0                     10:00 - 13:00
+
+                                                                                  108NP LUNES
+
+202SW0205 - FÍSICA I           4.0  3 --                               14         106NP LUNES    08:00 - 10:00
+                                                                           0                     10:00 - 13:00
+
+                                                                                  106NP MARTES
+
+202SW0205 - FÍSICA I           4.0  4 --                               14         103NP LUNES    08:00 - 10:00
+                                                                           0                     10:00 - 13:00
+
+                                                                                  103NP MARTES
+
+202SW0205 - FÍSICA I           4.0  5 --                               14         102NP MIERCOLES 08:00 - 10:00
+                                                                           0
+
+                                                                                  102NP MIERCOLES 10:00 - 13:00
+
+202SW0205 - FÍSICA I           4.0  6 --                               14  0  102  JUEVES 08:00 - 10:00
+
+                                                                              102  JUEVES 10:00 - 13:00
+
+202SW0206 - QUÍMICA GENERAL    4.0  1  06122577 - FANOLA MERINO,       14         109NP MIERCOLES 08:00 - 11:00
+                                       PETRONILA MERIDA                    0
+
+                                                                                  109NP MIERCOLES 11:00 - 13:00
+
+202SW0206 - QUÍMICA GENERAL    4.0  2  032808 - HILARIO ROMERO,        14         108NP MIERCOLES 08:00 - 11:00
+                                       BENIGNO HERACLIDES                  0
+
+                                                                                  108NP MIERCOLES 11:00 - 13:00
+
+202SW0206 - QUÍMICA GENERAL    4.0  3  06122577 - FANOLA MERINO,       14         106NP VIERNES  08:00 - 11:00
+                                       PETRONILA MERIDA                    0                     11:00 - 13:00
+
+                                                                                  106NP VIERNES
+
+                                                                                   Página 2
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+202SW0206 - QUÍMICA GENERAL     4.0    4     024287 - ESTRADA ALARCÓN, JUAN  14           103NP VIERNES     08:00 - 11:00
+                                             EDMUNDO                               0                        11:00 - 13:00
+
+                                                                                          103NP VIERNES
+
+202SW0206 - QUÍMICA GENERAL     4.0    5     06122577 - FANOLA MERINO,       14           102NP  LUNES      08:00 - 11:00
+                                             PETRONILA MERIDA                      0             LUNES      11:00 - 13:00
+
+                                                                                          102NP
+
+202SW0206 - QUÍMICA GENERAL     4.0    6     06122577 - FANOLA MERINO,       14             102 MARTES 08:00 - 11:00
+                                             PETRONILA MERIDA                      0
+
+                                                                                            102 MARTES 11:00 - 13:00
+
+202SW0207 - INTRODUCCIÓN A LAS  2.0    1 09958068 - CUEVA SANCHEZ, JEAN 14                109NP VIERNES     14:00 - 15:00
+CIENCIAS E INGENIERÍA                                                              0                        15:00 - 17:00
+
+                                                                                          109NP VIERNES
+
+202SW0207 - INTRODUCCIÓN A LAS  2.0    2     06326376 - COSME FÉLIX, MIRYAM  14           108NP VIERNES     09:00 - 10:00
+CIENCIAS E INGENIERÍA                        MILAGROS                              0                        10:00 - 12:00
+
+                                                                                          108NP VIERNES
+
+202SW0207 - INTRODUCCIÓN A LAS  2.0    3 09958068 - CUEVA SANCHEZ, JEAN 14                106NP MIERCOLES 14:00 - 15:00
+CIENCIAS E INGENIERÍA                                                              0
+
+                                                                                          106NP MIERCOLES 15:00 - 17:00
+
+202SW0207 - INTRODUCCIÓN A LAS  2.0    4     09620253 - COLCA GARCIA, HEDDY  14           103NP MIERCOLES 14:00 - 15:00
+CIENCIAS E INGENIERÍA                        LILIANA                               0
+
+                                                                                          103NP MIERCOLES 15:00 - 17:00
+
+202SW0207 - INTRODUCCIÓN A LAS  2.0    5     06326376 - COSME FÉLIX, MIRYAM  14           102NP VIERNES     14:00 - 15:00
+CIENCIAS E INGENIERÍA                        MILAGROS                              0                        15:00 - 17:00
+
+                                                                                          102NP VIERNES
+
+202SW0207 - INTRODUCCIÓN A LAS  2.0    6     09620253 - COLCA GARCIA, HEDDY  14             102 VIERNES 09:00 - 10:00
+CIENCIAS E INGENIERÍA                        LILIANA                               0
+
+                                                                                            102 VIERNES 10:00 - 12:00
+
+CICLO 3
+
+         Asignatura             Créd.  Sec.      Docente                     Tope  Matri.  Aula        Día  Horas Clase
+                                 4.0                                          30      0      --     LUNES   08:00 - 11:00
+202SW0301 - ALGORÍTMICA I              1     0A1982 - ARREDONDO CASTILLO,     30      0      --     LUNES   11:00 - 13:00
+                                             GUSTAVO                          30      0      --    VIERNES  08:00 - 11:00
+                                                                              30      0      --    VIERNES  11:00 - 13:00
+202SW0302 - ESTADÍSTICA Y       4.0    1 --                                   30      0      --    MARTES   08:00 - 10:00
+PROBABILIDADES                                                                30      0      --    MARTES   10:00 - 12:00
+                                                                                             --    VIERNES  08:00 - 10:00
+202SW0303 - FISICA ELÉCTRÓNICA 3.0     1 --                                                  --    VIERNES  10:00 - 12:00
+                                                                                             --    SABADO   08:00 - 10:00
+202SW0304 - INGENIERÍA          3.0    1 --                                                  --    SABADO   10:00 - 12:00
+ECONÓMICA                                                                                    --  MIERCOLES  08:00 - 11:00
+                                3.0    1     0A7624 - CANCHO RODRÍGUEZ,                      --  MIERCOLES  11:00 - 13:00
+202SW0305 - INTRODUCCIÓN AL                  ERNESTO DAVID
+DESARROLLO DE SOFTWARE
+
+202SW0306 - MATEMÁTICA BÁSICA 4.0      1 --
+
+CICLO 4
+
+         Asignatura             Créd.  Sec.                      Docente     Tope  Matri.  Aula        Día  Horas Clase
+                                 4.0     1                                    45      0      --  MIERCOLES  08:00 - 11:00
+202SW0401 - ALGORÍTMICA II       3.0     1   0A9179 - TAPIA CARBAJAL, JUAN            0      --  MIERCOLES  11:00 - 13:00
+                                 3.0     1   RICARDO                                  0      --             08:00 - 10:00
+                                 3.0     2                                            0      --    VIERNES  10:00 - 12:00
+202SW0402 - CONTABILIDAD PARA    3.0     1   --                              45       0      --    VIERNES  14:00 - 16:00
+LA GESTIÓN                       4.0     1                                            0      --    MARTES   16:00 - 18:00
+                                 3.0     1   0A1871 - CHÁVEZ HERRERA ,       30       0      --    MARTES   14:00 - 16:00
+202SW0403 - ORGANIZACIÓN Y       3.0     1   CARLOS ERNESTO                           0      --    MARTES   16:00 - 18:00
+ADMINISTRACIÓN                                                                               --    MARTES   14:00 - 16:00
+                                             087998 - NAVARRO DEPAZ, CARLOS  30              --  MIERCOLES  16:00 - 18:00
+202SW0403 - ORGANIZACIÓN Y                   EDMUNDO                                         --  MIERCOLES  08:00 - 11:00
+ADMINISTRACIÓN                                                                               --    MARTES   11:00 - 13:00
+                                             0A5230 - RODRÍGUEZ RODRÍGUEZ ,  45              --    MARTES   08:00 - 10:00
+202SW0404 - MATEMÁTICA                       CIRO                                            --             10:00 - 12:00
+DISCRETA                                                                                     --     LUNES   08:00 - 10:00
+                                             0A1982 - ARREDONDO CASTILLO,    45              --     LUNES   10:00 - 12:00
+202SW0405 - ESTRUCTURA DE                    GUSTAVO                                               SABADO
+DATOS                                                                                              SABADO
+                                             0A1873 - MACHADO VICENTE, JOEL  45
+202SW0406 - PROCESOS DE                      FERNANDO
+SOFTWARE
+
+202SW0407 - SISTEMAS DIGITALES               0A7565 - PRUDENCIO VIDAL,       45
+                                             JAVIER ANTONIO
+
+                                                                                                 Página 3
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+CICLO 5                        Créd.  Sec.                      Docente      Tope  Matri.  Aula        Día  Horas Clase
+                  Asignatura    3.0     1                                     30      0      --     JUEVES  09:00 - 11:00
+                                3.0     1   0A5292 - PAUCAR CURASMA ,         30      0      --     JUEVES  11:00 - 13:00
+202SW0501 - ANÁLISIS Y DISEÑO   4.0     1   HERMINIO                          30      0      --  MIERCOLES  14:00 - 16:00
+DE ALGORITMOS                   4.0     2                                     31      0      --  MIERCOLES  16:00 - 18:00
+                                3.0     1   0A5306 - AGUILAR ALONSO, IGOR             0      --    VIERNES  08:00 - 10:00
+202SW0502 - ARQUITECTURA DE     3.0     1   JOVINO                                    0      --    VIERNES  10:00 - 13:00
+COMPUTADORAS                    4.0     1                                             0      --     LUNES   14:00 - 17:00
+                                4.0     1   0A1982 - ARREDONDO CASTILLO,              0      --     LUNES   17:00 - 19:00
+202SW0503 - BASE DE DATOS I                 GUSTAVO                                          --     JUEVES  14:00 - 16:00
+                                                                                             --     JUEVES  16:00 - 18:00
+202SW0503 - BASE DE DATOS I                 02099E - DEL PINO RODRÍGUEZ,                     --    MARTES   14:00 - 16:00
+                                            LUZ CORINA                                       --    MARTES   16:00 - 18:00
+202SW0504 - COMPUTACIÓN                                                                      --  MIERCOLES  08:00 - 11:00
+VISUAL                                      --                               30              --  MIERCOLES  11:00 - 13:00
+                                                                                             --     LUNES   08:00 - 10:00
+202SW0505 - ECONOMÍA PARA LA                --                               30              --     LUNES   10:00 - 13:00
+GESTIÓN
+                                            0A5230 - RODRÍGUEZ RODRÍGUEZ ,   30
+202SW0506 - INGENIERÍA DE                   CIRO
+REQUISITOS
+                                            096237 - RUIZ DE LA CRUZ MELO,   30
+202SW0507 - LENGUAJES Y                     CARLOS AUGUSTO
+COMPILADORES
+
+CICLO 6
+
+         Asignatura            Créd.  Sec.      Docente                      Tope Matri.   Aula        Día  Horas Clase
+                                4.0                                                          --    MARTES   08:00 - 11:00
+202SW0601 - BASE DE DATOS II    4.0   1     0A9179 - TAPIA CARBAJAL, JUAN    35    0         --    MARTES   11:00 - 13:00
+                                3.0         RICARDO                                          --    MARTES   13:00 - 16:00
+                                3.0                                                          --    MARTES   16:00 - 18:00
+202SW0601 - BASE DE DATOS II    4.0   2     02099E - DEL PINO RODRÍGUEZ,     35    0         --     LUNES   09:00 - 11:00
+                                4.0         LUZ CORINA                                       --     LUNES   11:00 - 13:00
+202SW0602 - CALIDAD DE          3.0                                                          --     LUNES   09:00 - 11:00
+SOFTWARE                        3.0   1     091081 - ALARCÓN LOAYZA, LUIS    35    0         --     LUNES   11:00 - 13:00
+                                3.0         ALBERTO                                          --    VIERNES  13:00 - 16:00
+202SW0602 - CALIDAD DE          3.0                                                          --    VIERNES  16:00 - 18:00
+SOFTWARE                        3.0   2 --                                   35    0         --    VIERNES  13:00 - 16:00
+                                3.0                                                          --    VIERNES  16:00 - 18:00
+202SW0603 - DISEÑO DE           3.0   1     0A0314 - ESPINOZA ROBLES,        35    0         --  MIERCOLES  17:00 - 20:00
+SOFTWARE                        3.0         ARMANDO DAVID                                    --  MIERCOLES  20:00 - 22:00
+                                                                                             --  MIERCOLES  17:00 - 20:00
+202SW0603 - DISEÑO DE                 2 --                                   35    0         --  MIERCOLES  20:00 - 22:00
+SOFTWARE                                                                                     --    MARTES   18:00 - 20:00
+                                      1     0A4524 - BAYONA ORÉ, LUZ         35    0         --    MARTES   20:00 - 22:00
+202SW0604 - ETICA PROFESIONAL               SUSSY                                            --    MARTES   18:00 - 20:00
+Y LEGISLACIÓN INFORMÁTICA                                                                    --    MARTES   20:00 - 22:00
+                                      2 --                                   35    0         --    VIERNES  18:00 - 20:00
+202SW0604 - ETICA PROFESIONAL                                                                --    VIERNES  20:00 - 22:00
+Y LEGISLACIÓN INFORMÁTICA             1     0A5291 - HUAPAYA CHUMPITAZ,      35    0         --    VIERNES  18:00 - 20:00
+                                            MARIO AGUSTÍN                                    --    VIERNES  20:00 - 22:00
+202SW0605 - GESTIÓN DE                                                                       --    VIERNES  08:00 - 10:00
+PROYECTO DE SOFTWARE                  2 --                                   35    0         --    VIERNES  10:00 - 12:00
+                                                                                             --    VIERNES  08:00 - 10:00
+202SW0605 - GESTIÓN DE                1     0A9126 - PETRLIK AZABACHE, IVAN  35    0         --    VIERNES  10:00 - 12:00
+PROYECTO DE SOFTWARE                        CARLO
+
+202SW0606 - INTERACCIÓN               2 --                                   35    0
+HOMBRE COMPUTADOR
+                                      1     09795E - DIAZ MUÑANTE, JORGE     35    0
+202SW0606 - INTERACCIÓN                     RAÚL
+HOMBRE COMPUTADOR
+                                      2 --                                   35    0
+202SW0607 - SISTEMAS
+OPERATIVOS
+
+202SW0607 - SISTEMAS
+OPERATIVOS
+
+CICLO 7
+
+                                                                                                 Página 4
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+                  Asignatura   Créd.  Sec.                      Docente     Tope  Matri.  Aula        Día  Horas Clase
+                                4.0     1                                    30      0      --     LUNES   13:00 - 16:00
+202SW0701 - ARQUITECTURA DE     4.0     2   0A06655 - MELGAREJO SOLIS,       30      0      --     LUNES   16:00 - 18:00
+SOFTWARE                        3.0     1   RONALD ALFONSO                   30      0      --    MARTES   17:00 - 20:00
+                                3.0     2                                    30      0      --    MARTES   20:00 - 22:00
+202SW0701 - ARQUITECTURA DE     4.0     1   0A4525 - MENÉNDEZ MUERAS,                0      --  MIERCOLES  14:00 - 16:00
+SOFTWARE                        4.0     2   ROSA                                     0      --  MIERCOLES  16:00 - 18:00
+                                3.0     1                                            0      --  MIERCOLES  14:00 - 16:00
+202SW0702 - EXPERIENCIA DE      3.0     2   46301637 - ALFARO YANGALI,               0      --  MIERCOLES  16:00 - 18:00
+USUARIO Y USABILIDAD            3.0     3   VICTOR HUGO                              0      --     JUEVES  13:00 - 16:00
+                                3.0     1                                            0
+202SW0702 - EXPERIENCIA DE      3.0     2   10399394 - REYES HUAMÁN, ANITA           0      --     JUEVES  16:00 - 18:00
+USUARIO Y USABILIDAD            4.0     1   MARLENE                                  0
+                                4.0     2                                            0      --     JUEVES  17:00 - 20:00
+202SW0703 - GESTIÓN DE LA       3.0     1   0A1875 - WONG PORTILLO , LENIS  30       0
+CONFIGURACIÓN Y                 3.0     2   ROSSI                                    0      --     JUEVES  20:00 - 22:00
+MANTENIMIENTO DEL SOFTWARE
+202SW0703 - GESTIÓN DE LA                   10399394 - REYES HUAMÁN, ANITA  30              --    VIERNES  18:00 - 20:00
+CONFIGURACIÓN Y                             MARLENE                                         --    VIERNES  20:00 - 22:00
+MANTENIMIENTO DEL SOFTWARE                                                                  --    VIERNES  18:00 - 20:00
+                                            0A1871 - CHÁVEZ HERRERA ,       30              --    VIERNES  20:00 - 22:00
+202SW0704 - FORMACIÓN DE                    CARLOS ERNESTO                                  --    VIERNES  18:00 - 20:00
+EMPRESAS DE SOFTWARE                                                                        --    VIERNES  20:00 - 22:00
+                                            0A1876 - MURAKAMI DE LA CRUZ ,  30              --    SABADO   18:00 - 20:00
+202SW0704 - FORMACIÓN DE                    SUMIKO ELIZABETH                                --    SABADO   20:00 - 22:00
+EMPRESAS DE SOFTWARE                                                                        --     JUEVES  08:00 - 10:00
+                                            09831E - ALCÁNTARA LOAYZA,      30              --     JUEVES  10:00 - 12:00
+202SW0704 - FORMACIÓN DE                    CÉSAR AUGUSTO                                   --  MIERCOLES  18:00 - 20:00
+EMPRESAS DE SOFTWARE                                                                        --  MIERCOLES  20:00 - 22:00
+                                            0A06660 - SOBREVILLA CABEZUDO,  30              --  MIERCOLES  18:00 - 20:00
+202SW0705 - INTELIGENCIA                    MARCO ANTONIO                                   --  MIERCOLES  20:00 - 22:00
+ARTIFICIAL                                                                                  --             18:00 - 20:00
+                                            0A2067 - GAMARRA MORENO,        30              --     LUNES   20:00 - 22:00
+202SW0705 - INTELIGENCIA                    JUAN                                            --     LUNES   08:00 - 10:00
+ARTIFICIAL                                                                                  --    SABADO   10:00 - 12:00
+                                            46301637 - ALFARO YANGALI,      30                    SABADO
+202SW0706 - PRUEBAS DE                      VICTOR HUGO
+SOFTWARE
+                                            0A1877 - BARTRA MORE, ARTURO    30
+202SW0706 - PRUEBAS DE                      ALEJANDRO
+SOFTWARE
+                                            0A1981 - UGAZ CACHAY , WINSTON  30
+202SW0707 - REDES Y                         IGNACIO
+TRANSMISIÓN DE DATOS
+                                            0A1981 - UGAZ CACHAY , WINSTON  30
+202SW0707 - REDES Y                         IGNACIO
+TRANSMISIÓN DE DATOS
+
+CICLO 8                        Créd.  Sec.                      Docente     Tope  Matri.  Aula        Día  Horas Clase
+                                3.0     1   0A06661 - DEL MAR ARZOLA,        30      0      --  MIERCOLES  18:00 - 20:00
+                  Asignatura            2   JORGE LUIS                       30      0      --  MIERCOLES  20:00 - 22:00
+                                        1                                    30      0      --  MIERCOLES  18:00 - 20:00
+202SW0801 - AUTOMATIZACIÓN Y            2   --                               30      0      --  MIERCOLES  20:00 - 22:00
+CONTROL DE SOFTWARE                     1                                    10      0      --             18:00 - 20:00
+                                        2   0A2067 - GAMARRA MORENO,         10      0      --     LUNES   20:00 - 22:00
+202SW0801 - AUTOMATIZACIÓN Y   3.0      3   JUAN                             10      0      --     LUNES   14:00 - 16:00
+CONTROL DE SOFTWARE                     1                                    30      0      --    VIERNES  16:00 - 18:00
+                                        2   0A1871 - CHÁVEZ HERRERA ,        30      0      --    VIERNES  14:00 - 15:00
+202SW0802 - INTELIGENCIA DE    3.0          CARLOS ERNESTO                                  --  MIERCOLES  15:00 - 17:00
+NEGOCIOS                                                                                    --  MIERCOLES  14:00 - 15:00
+                                            0A4524 - BAYONA ORÉ, LUZ                        --  MIERCOLES  15:00 - 17:00
+202SW0802 - INTELIGENCIA DE    3.0          SUSSY                                           --  MIERCOLES  14:00 - 15:00
+NEGOCIOS                                                                                    --  MIERCOLES  15:00 - 17:00
+                                            0A06660 - SOBREVILLA CABEZUDO,                  --  MIERCOLES  14:00 - 16:00
+202SW0803 - METODOLOGÍA DE LA  3.0          MARCO ANTONIO                                   --    VIERNES  16:00 - 18:00
+INVESTIGACIÓN                                                                                     VIERNES
+                                            --                                              --             18:00 - 20:00
+202SW0803 - METODOLOGÍA DE LA  3.0                                                                MARTES
+INVESTIGACIÓN                               0A7624 - CANCHO RODRÍGUEZ,
+                                            ERNESTO DAVID
+202SW0803 - METODOLOGÍA DE LA  3.0          0A9124 - LEZAMA GONZALES,
+INVESTIGACIÓN                               PEDRO MARTÍN
+
+202SW0804 - MINERÍA DE DATOS   3.0
+
+202SW0804 - MINERÍA DE DATOS   3.0
+
+                                                                                                Página 5
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+                                                                           --  MARTES 20:00 - 22:00
+
+202SW0805 - PROGRAMACIÓN      3.0  1  0A7565 - PRUDENCIO VIDAL,     30  0  --  JUEVES 18:00 - 20:00
+CONCURRENTE Y PARALELA                JAVIER ANTONIO
+                                                                           --  JUEVES 20:00 - 22:00
+
+202SW0805 - PROGRAMACIÓN      3.0  2  0A0690 - LÓPEZ VILLANUEVA,    30  0  --  JUEVES 18:00 - 20:00
+CONCURRENTE Y PARALELA                PABLO EDWIN
+                                                                           --  JUEVES 20:00 - 22:00
+
+202SW0806 - TALLER DE                 0A1874 - CORDERO SÁNCHEZ,            --  SABADO 08:00 - 10:00
+CONSTRUCCIÓN DE SOFTWARE              HUGO RAFAEL
+WEB                           3.0  1                                30  0  --  SABADO 10:00 - 13:00
+
+202SW0806 - TALLER DE                                                      --  SABADO 08:00 - 10:00
+CONSTRUCCIÓN DE SOFTWARE
+WEB                           3.0  2 --                             30  0  --  SABADO 10:00 - 13:00
+
+202SW0807 - ASEGURAMIENTO DE  3.0  1  0A5291 - HUAPAYA CHUMPITAZ,   30  0  --  VIERNES 18:00 - 20:00
+LA CALIDAD DEL SOFTWARE               MARIO AGUSTÍN
+                                                                           --  VIERNES 20:00 - 22:00
+
+202SW0807 - ASEGURAMIENTO DE  3.0  2  099562 - MAC DOWALL REYNOSO,  30  0  --  VIERNES   18:00 - 20:00
+LA CALIDAD DEL SOFTWARE               ERWIN                                --  VIERNES   20:00 - 22:00
+
+                                                                               Página 6
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+

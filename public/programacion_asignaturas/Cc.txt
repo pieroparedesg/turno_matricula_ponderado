@@ -1,0 +1,369 @@
+                           REPORTE DE PROGRAMACIÓN DE ASIGNATURAS
+
+         Código de Matrícula          : 25200185
+         Nombres y Apellidos          : ALEJOS YARASCA DIEGO JESUS
+         Facultad                     : 20 - INGENIERÍA DE SISTEMAS E INFORMÁTICA
+         Escuela                      : 3 - E.P. De Ciencias De La Computación
+         Especialidad                 : 0 - Estudios Generales
+         Plan                         : 2023 - Plan De Estudios 2023
+         Periodo Académico            : 2026-2
+         Fecha Impresión              : Saturday, 8 August de 2026 14:16:29 PM
+
+CICLO 1
+
+         Asignatura            Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                                2.0                                          13      0             JUEVES  08:00 - 09:00
+INE013 - EMPRENDIMIENTO E             1     15584946 - DIONICIO MEJÍA,                    109
+INNOVACIÓN                      2.0         CARMEN VIOLETA                   13      0     NP      JUEVES  09:00 - 11:00
+
+INE013 - EMPRENDIMIENTO E       2.0   2     43091255 - HUAMAN TINCO, BORJA   13      0    109      JUEVES  11:00 - 12:00
+INNOVACIÓN                                  LUIS                                           NP
+                                2.0                                          13      0             JUEVES  12:00 - 14:00
+INE013 - EMPRENDIMIENTO E             3     10275035 - ORELLANA MANRIQUE,                 108
+INNOVACIÓN                      2.0         YOLANDA OLIVIA                   13      0     NP      JUEVES  08:00 - 09:00
+                                2.0                                          13      0
+INE013 - EMPRENDIMIENTO E       4.0   4     10275035 - ORELLANA MANRIQUE,     5      0    108      JUEVES  09:00 - 11:00
+INNOVACIÓN                      4.0         YOLANDA OLIVIA                    5      0     NP
+                                                                                                   JUEVES  11:00 - 12:00
+INE013 - EMPRENDIMIENTO E             5     41388541 - AGUILAR CORONEL,                   106
+INNOVACIÓN                                  JHONATHAN                                      NP      JUEVES  12:00 - 14:00
+
+INE013 - EMPRENDIMIENTO E             6     41388541 - AGUILAR CORONEL,                   106     SABADO   08:00 - 09:00
+INNOVACIÓN                                  JHONATHAN                                      NP
+                                                                                                  SABADO   09:00 - 11:00
+INO104 - CÁLCULO I                    1     0A2021 - LLERENA LUCERO,                      103     SABADO   11:00 - 12:00
+                                            TEODORO ALFREDO                                NP     SABADO   12:00 - 14:00
+INO106 - ÁLGEBRA Y GEOMETRÍA                                                                    MIERCOLES  08:00 - 10:00
+ANALÍTICA                             1 --                                                103   MIERCOLES  10:00 - 14:00
+                                                                                           NP      LUNES   08:00 - 10:00
+                                                                                                   LUNES   10:00 - 14:00
+                                                                                          102
+                                                                                           NP
+
+                                                                                          102
+                                                                                           NP
+
+                                                                                          102
+
+                                                                                          102
+
+                                                                                          107
+
+                                                                                          107
+
+                                                                                          107
+
+                                                                                          107
+
+CICLO 2                        Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                  Asignatura    3.0                                          13      0      --    VIERNES  08:00 - 10:00
+                                      1     15584946 - DIONICIO MEJÍA,       13      0      --    VIERNES  10:00 - 12:00
+INO201 - REDACCIÓN Y TÉCNICAS               CARMEN VIOLETA                   13      0      --    SABADO   08:00 - 10:00
+DE COMUNICACIÓN EFECTIVA II                                                  13      0      --    SABADO   10:00 - 12:00
+                               3.0    2     70434046 - CORONEL TELLO, ANA    13      0      --  MIERCOLES  08:00 - 10:00
+INO201 - REDACCIÓN Y TÉCNICAS               EYLIN                                           --  MIERCOLES  10:00 - 12:00
+DE COMUNICACIÓN EFECTIVA II                                                                 --  MIERCOLES  08:00 - 10:00
+                               3.0    3     15584946 - DIONICIO MEJÍA,                      --  MIERCOLES  10:00 - 12:00
+INO201 - REDACCIÓN Y TÉCNICAS               CARMEN VIOLETA                                  --    MARTES   08:00 - 10:00
+DE COMUNICACIÓN EFECTIVA II                                                                 --    MARTES   10:00 - 12:00
+                               3.0    4     70434046 - CORONEL TELLO, ANA
+INO201 - REDACCIÓN Y TÉCNICAS               EYLIN
+DE COMUNICACIÓN EFECTIVA II
+                               3.0    5     15584946 - DIONICIO MEJÍA,
+INO201 - REDACCIÓN Y TÉCNICAS               CARMEN VIOLETA
+DE COMUNICACIÓN EFECTIVA II
+
+                                                                                                Página 1
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+INO201 - REDACCIÓN Y TÉCNICAS  3.0  6  70434046 - CORONEL TELLO, ANA     13            --  LUNES     08:00 - 10:00
+DE COMUNICACIÓN EFECTIVA II            EYLIN                                 0             LUNES     10:00 - 12:00
+
+                                                                                       --
+
+INO202 - INVESTIGACIÓN         3.0  1  09620253 - COLCA GARCIA, HEDDY    13  0  --         SABADO 08:00 - 10:00
+FORMATIVA                              LILIANA
+                                                                                --         SABADO 10:00 - 12:00
+
+INO202 - INVESTIGACIÓN         3.0  2  09620253 - COLCA GARCIA, HEDDY    13  0  --         VIERNES 08:00 - 10:00
+FORMATIVA                              LILIANA
+                                                                                --         VIERNES 10:00 - 12:00
+
+INO202 - INVESTIGACIÓN         3.0  3  41570960 - SANTISTEBAN PAZOS,     13  0  --         SABADO 09:00 - 11:00
+FORMATIVA                              JOSE LUIS
+                                                                                --         SABADO 10:00 - 12:00
+
+INO202 - INVESTIGACIÓN         3.0  4  07778143 - CHINCARO EGUSQUIZA,    13  0  --         SABADO 08:00 - 10:00
+FORMATIVA                              LUCY CRISTINA
+                                                                                --         SABADO 10:00 - 12:00
+
+INO202 - INVESTIGACIÓN         3.0  5  41570960 - SANTISTEBAN PAZOS,     13  0  --         VIERNES 08:00 - 10:00
+FORMATIVA                              JOSE LUIS
+                                                                                --         VIERNES 10:00 - 12:00
+
+INO202 - INVESTIGACIÓN         3.0  6 --                                 13  0  --         VIERNES 14:00 - 16:00
+FORMATIVA
+                                                                                --         VIERNES 16:00 - 18:00
+
+INO203 - REALIDAD NACIONAL Y   2.0  1  06326376 - COSME FÉLIX, MIRYAM    13  0  --         JUEVES 08:00 - 09:00
+MUNDIAL                                MILAGROS
+                                                                                --         JUEVES 12:00 - 14:00
+
+INO203 - REALIDAD NACIONAL Y   2.0  2  06326376 - COSME FÉLIX, MIRYAM    13  0  --         JUEVES 08:00 - 09:00
+MUNDIAL                                MILAGROS
+                                                                                --         JUEVES 09:00 - 11:00
+
+INO203 - REALIDAD NACIONAL Y   2.0  3  21289682 - BASUALDO PORRAS,       13  0  --         JUEVES 11:00 - 12:00
+MUNDIAL                                LUZ
+                                                                                --         JUEVES 12:00 - 14:00
+
+INO203 - REALIDAD NACIONAL Y   2.0  4  21289682 - BASUALDO PORRAS,       13  0  --         JUEVES 08:00 - 09:00
+MUNDIAL                                LUZ
+                                                                                --         JUEVES 09:00 - 11:00
+
+INO203 - REALIDAD NACIONAL Y   2.0  5  21289682 - BASUALDO PORRAS,       13  0  --         SABADO 11:00 - 12:00
+MUNDIAL                                LUZ
+                                                                                --         SABADO 12:00 - 14:00
+
+INO203 - REALIDAD NACIONAL Y   2.0  6  21289682 - BASUALDO PORRAS,       13  0  --         SABADO 08:00 - 09:00
+MUNDIAL                                LUZ
+                                                                                --         SABADO 09:00 - 11:00
+
+INO204 - CÁLCULO II            4.0  1 --                                 13  0  --         LUNES 08:00 - 10:00
+
+                                                                                --         MARTES 10:00 - 14:00
+
+                                       40667934 - TERREROS NAVARRO,             108        LUNES 08:00 - 10:00
+                                       HELLEN GLORIA                            NP
+INO204 - CÁLCULO II            4.0  2                                    13  0
+                                                                                108
+                                                                                NP         MARTES 10:00 - 14:00
+
+                                                                                106        MARTES 08:00 - 10:00
+                                                                                NP
+INO204 - CÁLCULO II            4.0  3 --                                 13  0
+                                                                                106
+                                                                                NP         LUNES 10:00 - 14:00
+
+                                       40667934 - TERREROS NAVARRO,             103        MARTES 08:00 - 10:00
+                                       HELLEN GLORIA                            NP
+INO204 - CÁLCULO II            4.0  4                                    13  0
+                                                                                103
+                                                                                NP         LUNES 10:00 - 14:00
+
+                                       40667934 - TERREROS NAVARRO,             102        JUEVES 08:00 - 10:00
+                                       HELLEN GLORIA                            NP
+INO204 - CÁLCULO II            4.0  5                                    13  0
+                                                                                102
+                                                                                NP         JUEVES 10:00 - 14:00
+
+INO204 - CÁLCULO II            4.0  6 --                                 13           102 MIERCOLES 08:00 - 10:00
+                                                                             0
+
+                                                                                      102 MIERCOLES 10:00 - 14:00
+
+INO205 - FÍSICA I              4.0  1 --                                 13  0  --         MARTES 08:00 - 10:00
+
+                                                                                --         LUNES 10:00 - 13:00
+
+INO205 - FÍSICA I              4.0  2 --                                 13  0  --         MARTES 08:00 - 10:00
+
+                                                                                --         LUNES 10:00 - 13:00
+
+INO205 - FÍSICA I              4.0  3 --                                 13  0  --         LUNES 08:00 - 10:00
+
+                                                                                --         MARTES 10:00 - 13:00
+
+INO205 - FÍSICA I              4.0  4 --                                 13  0  --         LUNES 08:00 - 10:00
+
+                                                                                --         MARTES 10:00 - 13:00
+
+INO205 - FÍSICA I              4.0  5 --                                 13  0  -- MIERCOLES 08:00 - 10:00
+
+                                                                                           Página 2
+
+                   Documento Verificable | Sistema Único de Matrícula
+
+                   Escanee este código QR para validar su autenticidad.
+                                                                                            -- MIERCOLES 10:00 - 13:00
+
+INO205 - FÍSICA I                4.0    6 --                                  13    0       --    JUEVES 08:00 - 10:00
+
+INO206 - QUÍMICA GENERAL                                                                    --    JUEVES 10:00 - 13:00
+
+INO206 - QUÍMICA GENERAL         4.0    1     06122577 - FANOLA MERINO,       13    0       -- MIERCOLES 08:00 - 11:00
+                                              PETRONILA MERIDA                              -- MIERCOLES 11:00 - 13:00
+INO206 - QUÍMICA GENERAL
+                                 4.0    2     032808 - HILARIO ROMERO,        13    0       -- MIERCOLES 08:00 - 11:00
+INO206 - QUÍMICA GENERAL                      BENIGNO HERACLIDES                            -- MIERCOLES 11:00 - 13:00
+
+INO206 - QUÍMICA GENERAL         4.0    3     06122577 - FANOLA MERINO,       13    0       --    VIERNES 08:00 - 11:00
+                                              PETRONILA MERIDA
+INO206 - QUÍMICA GENERAL                                                                    --    VIERNES 11:00 - 13:00
+
+INO207 - INTRODUCCIÓN A LAS      4.0    4     024287 - ESTRADA ALARCÓN, JUAN  13    0       --    VIERNES    08:00 - 11:00
+CIENCIAS E INGENIERÍA                         EDMUNDO                                       --    VIERNES    11:00 - 13:00
+
+INO207 - INTRODUCCIÓN A LAS      4.0    5     06122577 - FANOLA MERINO,       13    0       --    LUNES      08:00 - 11:00
+CIENCIAS E INGENIERÍA                         PETRONILA MERIDA                                    LUNES      11:00 - 13:00
+                                                                                            --
+INO207 - INTRODUCCIÓN A LAS
+CIENCIAS E INGENIERÍA            4.0    6     06122577 - FANOLA MERINO,       13    0       --    MARTES 08:00 - 11:00
+                                              PETRONILA MERIDA
+INO207 - INTRODUCCIÓN A LAS                                                                 --    MARTES 11:00 - 13:00
+CIENCIAS E INGENIERÍA
+                                                                                            109   VIERNES 14:00 - 15:00
+INO207 - INTRODUCCIÓN A LAS                                                                 NP
+CIENCIAS E INGENIERÍA            2.0    1 09958068 - CUEVA SANCHEZ, JEAN 13         0
+                                                                                            109
+INO207 - INTRODUCCIÓN A LAS                                                                 NP    VIERNES 15:00 - 17:00
+CIENCIAS E INGENIERÍA
+                                              06326376 - COSME FÉLIX, MIRYAM                108   VIERNES 09:00 - 10:00
+                                              MILAGROS                                      NP
+                                 2.0    2                                     13    0
+                                                                                            108
+                                                                                            NP    VIERNES 10:00 - 12:00
+
+                                                                                            106   MIERCOLES 14:00 - 15:00
+                                                                                            NP
+                                 2.0    3 09958068 - CUEVA SANCHEZ, JEAN 13         0
+                                                                                            106
+                                                                                            NP    MIERCOLES 15:00 - 17:00
+
+                                              09620253 - COLCA GARCIA, HEDDY                103   MIERCOLES 14:00 - 15:00
+                                              LILIANA                                       NP
+                                 2.0    4                                     13    0
+                                                                                            103
+                                                                                            NP    MIERCOLES 15:00 - 17:00
+
+                                              06326376 - COSME FÉLIX, MIRYAM                102   VIERNES 14:00 - 15:00
+                                              MILAGROS                                      NP
+                                 2.0    5                                     13    0
+                                                                                            102
+                                                                                            NP    VIERNES 15:00 - 17:00
+
+                                 2.0    6     09620253 - COLCA GARCIA, HEDDY  13             102 VIERNES 09:00 - 10:00
+                                              LILIANA                               0
+
+                                                                                             102 VIERNES 10:00 - 12:00
+
+CICLO 3
+
+         Asignatura              Créd.  Sec.                      Docente     Tope  Matri.  Aula        Día  Horas Clase
+                                  4.0     1                                    40      0      --     LUNES   08:00 - 10:00
+203230302 - PROGRAMACIÓN DE                   0A0037 - HUAYNA DUEÑAS, ANA                     --     LUNES   10:00 - 12:00
+COMPUTADORAS I                            1   MARIA                            40      0      --     LUNES   14:00 - 16:00
+                                          1                                    40      0      --  MIERCOLES  14:00 - 16:00
+203230304 - ESTRUCTURAS          4.0      1   0A1610 - MOQUILLAZA HENRIQUEZ,   40      0      --  MIERCOLES  16:00 - 20:00
+DISCRETAS                                 1   SANTIAGO DOMINGO                 40      0      --     JUEVES  08:00 - 10:00
+                                                                                              --     JUEVES  10:00 - 13:00
+203230305 - SERIES Y ECUACIONES  3.0          --                                              --    MARTES   08:00 - 10:00
+DIFERENCIALES                                                                                 --    MARTES   10:00 - 12:00
+                                              --                                              --    SABADO   08:00 - 11:00
+203230306 - INGENIERÍA           3.0                                                          --    SABADO   11:00 - 13:00
+ECONÓMICA                                     095699 - ARMAS CALDERÓN, RAÚL
+                                              MARCELO
+203230307 - ÓPTICA Y ELECTRO-    3.0
+MAGNETISMO
+
+CICLO 4                          Créd. Sec.   Docente                         Tope Matri. Aula      Día      Horas Clase
+                                                                                                  LUNES      14:00 - 16:00
+                  Asignatura     4.0    1     018686 - CORTEZ VÁSQUEZ,        40    0       --
+                                              AUGUSTO PARCEMON
+203230401 - ALGORITMOS Y
+ESTRUCTURAS DE DATOS
+
+                                                                                                  Página 3
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+                                                                                             --    LUNES 16:00 - 20:00
+
+203230402 - TEORÍA DE LA          4.0    1     095702 - BUSTAMANTE OLIVERA,    40    0       --    VIERNES 14:00 - 16:00
+COMPUTACIÓN                                    VÍCTOR HUGO
+                                                                                             --    VIERNES 08:00 - 12:00
+203230403 - BASE DE DATOS I
+                                  3.0    1     095729 - CHÁVEZ SOTO, JORGE     40    0       --    JUEVES 08:00 - 10:00
+203230404 - ARQUITECTURA DE                    LUIS
+COMPUTADORES                                                                                 --    JUEVES 10:00 - 12:00
+
+203230404 - ARQUITECTURA DE       3.0    1     099589 - FERMIN PEREZ, FELIX    40    0       --    MARTES 08:00 - 10:00
+COMPUTADORES                                   ARMANDO
+                                                                                             --    MARTES 10:00 - 12:00
+203230405 - ESTADÍSTICA Y
+PROBABILIDADES                    3.0    2     051934 - PARIONA QUISPE, JAIME  40    0       --    MARTES 08:00 - 10:00
+                                               RUBEN
+203230405 - ESTADÍSTICA Y                                                                    --    MARTES 10:00 - 12:00
+PROBABILIDADES
+                                  3.0    1 --                                  40    0       -- MIERCOLES 08:00 - 10:00
+
+                                                                                             -- MIERCOLES 10:00 - 12:00
+
+                                  3.0    2 --                                  40    0       -- MIERCOLES 15:00 - 18:00
+
+                                                                                             -- MIERCOLES 18:00 - 20:00
+
+203230406 - ANÁLISIS NUMÉRICO     3.0    1 --                                  40    0       --    JUEVES 14:00 - 16:00
+
+                                                                                             --    JUEVES 16:00 - 18:00
+
+203230406 - ANÁLISIS NUMÉRICO     3.0    2 --                                  40    0       --    JUEVES 14:00 - 16:00
+
+                                                                                             --    JUEVES 16:00 - 18:00
+
+CICLO 5
+
+         Asignatura               Créd.  Sec.                      Docente     Tope  Matri.  Aula        Día  Horas Clase
+                                           1                                    40      0      --     LUNES   14:00 - 16:00
+203230501 - ANÁLISIS Y DISEÑO DE  4.0      1   0A0419 - GUERRA GRADOS, LUIS             0      --     LUNES   16:00 - 18:00
+ALGORITMOS                                 1   ANGEL                                    0      --  MIERCOLES  08:00 - 10:00
+                                           1                                            0      --  MIERCOLES  10:00 - 12:00
+203230504 - SISTEMAS              4.0          095702 - BUSTAMANTE OLIVERA,    40              --  MIERCOLES  14:00 - 16:00
+OPERATIVOS                                     VÍCTOR HUGO                                     --    MARTES   08:00 - 11:00
+                                                                                               --    MARTES   11:00 - 14:00
+203230505 - PROGRAMACIÓN DE       4.0          08803A - ROMERO NAUPARI, PABLO  40              --     JUEVES  08:00 - 10:00
+COMPUTADORAS II                                JESUS                                           --     JUEVES  10:00 - 12:00
+                                                                                               --     JUEVES  12:00 - 14:00
+203C0506 - INVESTIGACIÓN          4.0          0A6225 - PUELLES BULNES, MARÍA  40
+OPERATIVA                                      ELIZABETH
+
+CICLO 6                           Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                                   4.0                                          40      0      --     JUEVES  08:00 - 10:00
+                  Asignatura             1     0A4525 - MENÉNDEZ MUERAS,        40      0      --     JUEVES  10:00 - 14:00
+                                               ROSA                             40      0      --    SABADO   08:00 - 11:00
+203230601 - INGENIERÍA DE                                                       40      0      --    SABADO   11:00 - 13:00
+SOFTWARE II                                                                     40      0      --  MIERCOLES  18:00 - 21:00
+                                                                                40      0      --     JUEVES  18:00 - 20:00
+203230602 - REDES Y               3.0    1     0A1236 - MOLINA NEYRA, CÉSAR     40      0      --    MARTES   15:00 - 17:00
+COMUNICACIONES                                 ALBERTO                          40      0      --    MARTES   17:00 - 19:00
+                                                                                40      0      --     LUNES   08:00 - 09:00
+203230602 - REDES Y               3.0    2     0A1236 - MOLINA NEYRA, CÉSAR                    --     LUNES   09:00 - 13:00
+COMUNICACIONES                                 ALBERTO                                         --    VIERNES  08:00 - 10:00
+                                                                                               --    VIERNES  10:00 - 14:00
+203230603 - ESTRUCTURA DE         3.0    1     0A5292 - PAUCAR CURASMA ,                       --     JUEVES  14:00 - 16:00
+DATOS AVANZADO                                 HERMINIO                                        --     JUEVES  16:00 - 18:00
+                                                                                               --     JUEVES  14:00 - 16:00
+203230604 - TÓPICOS DE SISTEMAS   3.0    1     095702 - BUSTAMANTE OLIVERA,                    --     JUEVES  16:00 - 18:00
+OPERATIVOS AVANZADOS                           VÍCTOR HUGO                                     --    MARTES   08:00 - 10:00
+                                                                                               --    MARTES   10:00 - 12:00
+203230605 - LENGUAJES Y           4.0    1     096237 - RUIZ DE LA CRUZ MELO,
+COMPILADORES I                                 CARLOS AUGUSTO
+
+203230606 - MODELOS Y             3.0    1     059013 - RIVAS PEÑA, MARCOS
+SIMULACIÓN                                     HERNAN
+
+203230606 - MODELOS Y             3.0    2 --
+SIMULACIÓN
+
+203230607 - PROCESOS              3.0    1     059013 - RIVAS PEÑA, MARCOS
+ESTOCÁSTICOS                                   HERNAN
+
+                                                                                                   Página 4
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+

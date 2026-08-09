@@ -1,0 +1,108 @@
+                            REPORTE DE PROGRAMACIÓN DE ASIGNATURAS
+
+         Código de Matrícula         : 26200264
+         Nombres y Apellidos         : ASTOQUILLCA LLANCUL JAIR JANFRANCO
+         Facultad                    : 20 - INGENIERÍA DE SISTEMAS E INFORMÁTICA
+         Escuela                     : 4 - E.P. De Inteligencia Artificial
+         Especialidad                : 0 - Estudios Generales
+         Plan                        : 2026 - Plan De Estudios 2026
+         Periodo Académico           : 2026-2
+         Fecha Impresión             : Saturday, 8 August de 2026 14:16:56 PM
+
+CICLO 1
+
+         Asignatura           Créd.  Sec.  Docente                          Tope  Matri.  Aula        Día  Horas Clase
+                               4.0                                            5      0    107   MIERCOLES  08:00 - 10:00
+INO104 - CÁLCULO I                   1     0A2021 - LLERENA LUCERO,           5      0    107   MIERCOLES  10:00 - 14:00
+                                           TEODORO ALFREDO                                107              08:00 - 10:00
+                                                                                          107      LUNES   10:00 - 14:00
+INO106 - ÁLGEBRA Y GEOMETRÍA  4.0    1 --                                                          LUNES
+ANALÍTICA
+
+CICLO 2
+
+         Asignatura           Créd.  Sec.                      Docente      Tope  Matri.  Aula        Día  Horas Clase
+                               4.0     1   089575 - SALINAS AZAÑA,           30      0             JUEVES  08:00 - 11:00
+200260201 - PROGRAMACIÓN I     4.0     2   GILBERTO ANÍBAL                   30      0    107      JUEVES  11:00 - 13:00
+                               4.0     1                                     30      0     NP      JUEVES  08:00 - 11:00
+200260201 - PROGRAMACIÓN I     4.0     2   095745 - MUÑOZ CASILDO, NEHIL     30      0             JUEVES  11:00 - 13:00
+                               3.0     1   INDALICIO                         30      0    107   MIERCOLES  08:00 - 11:00
+200260202 - MATEMÁTICAS        3.0     2                                     30      0     NP   MIERCOLES  11:00 - 13:00
+DISCRETAS                      2.0     1   055867 - QUINTO PAZCE, DANIEL     30      0          MIERCOLES  08:00 - 11:00
+                               2.0     2                                     30      0    101   MIERCOLES  11:00 - 13:00
+200260202 - MATEMÁTICAS        4.0     1   0A6226 - HERRERA QUISPE, JOSÉ     30      0     NP     VIERNES  08:00 - 10:00
+DISCRETAS                                  ALFREDO                                                VIERNES  10:00 - 12:00
+                                                                                          101     VIERNES  14:00 - 16:00
+INO202 - INVESTIGACIÓN                     70434046 - CORONEL TELLO, ANA                   NP     VIERNES  16:00 - 18:00
+FORMATIVA                                  EYLIN                                                  VIERNES  14:00 - 15:00
+                                                                                          107     VIERNES  15:00 - 17:00
+INO202 - INVESTIGACIÓN                     --                                              NP     VIERNES  09:00 - 10:00
+FORMATIVA                                                                                         VIERNES  10:00 - 12:00
+                                           21289682 - BASUALDO PORRAS,                    107      LUNES   08:00 - 10:00
+INO203 - REALIDAD NACIONAL Y               LUZ                                             NP
+MUNDIAL
+                                           21289682 - BASUALDO PORRAS,                    101
+INO203 - REALIDAD NACIONAL Y               LUZ                                             NP
+MUNDIAL                                    21571331 - BARBOZA CARAPE, LUIS
+                                           LEONCIO                                        101
+INO204 - CÁLCULO II                                                                        NP
+
+                                                                                          107
+                                                                                           NP
+
+                                                                                          107
+                                                                                           NP
+
+                                                                                          101
+                                                                                           NP
+
+                                                                                          101
+                                                                                           NP
+
+                                                                                          107
+                                                                                           NP
+
+                                                                                          107
+                                                                                           NP
+
+                                                                                          101
+                                                                                           NP
+
+                                                                                          101
+                                                                                           NP
+
+                                                                                          107
+                                                                                           NP
+
+                                                                                                Página 1
+
+                    Documento Verificable | Sistema Único de Matrícula
+
+                    Escanee este código QR para validar su autenticidad.
+                                                                     107  MARTES 10:00 - 14:00
+                                                                     NP
+
+                             21571331 - BARBOZA CARAPE, LUIS         101  LUNES 10:00 - 14:00
+                             LEONCIO                                 NP
+INO204 - CÁLCULO II  4.0  2                                   30  0
+INO205 - FÍSICA I                                                    101
+INO205 - FÍSICA I                                                    NP   MARTES 08:00 - 10:00
+
+                                                                     107  MARTES 08:00 - 10:00
+                                                                     NP
+                     4.0  1 --                                30  0
+                                                                     107
+                                                                     NP   LUNES 10:00 - 13:00
+
+                                                                     101  LUNES 08:00 - 10:00
+                                                                     NP
+                     4.0  2 --                                30  0
+                                                                     101
+                                                                     NP   MARTES 10:00 - 13:00
+
+                                                                          Página 2
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+

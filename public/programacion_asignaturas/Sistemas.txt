@@ -1,0 +1,628 @@
+                        REPORTE DE PROGRAMACIÓN DE ASIGNATURAS
+
+         Código de Matrícula          : 24200026
+         Nombres y Apellidos          : PAREDES GALVEZ PIERO ALFONSO
+         Facultad                     : 20 - INGENIERÍA DE SISTEMAS E INFORMÁTICA
+         Escuela                      : 1 - E.P. De Ingeniería De Sistemas
+         Especialidad                 : 0 - Estudios Generales
+         Plan                         : 2023 - Plan De Estudios 2023
+         Periodo Académico            : 2026-2
+         Fecha Impresión              : Saturday, 8 August de 2026 14:14:48 PM
+
+CICLO 1
+
+         Asignatura            Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                                4.0                                           5      0    107   MIERCOLES  08:00 - 10:00
+INO104 - CÁLCULO I                    1     0A2021 - LLERENA LUCERO,          5      0    107   MIERCOLES  10:00 - 14:00
+                                            TEODORO ALFREDO                               107              08:00 - 10:00
+                                                                                          107      LUNES   10:00 - 14:00
+INO106 - ÁLGEBRA Y GEOMETRÍA   4.0    1 --                                                         LUNES
+ANALÍTICA
+
+CICLO 2
+
+         Asignatura            Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                                3.0                                          17      0            VIERNES  08:00 - 10:00
+INO201 - REDACCIÓN Y TÉCNICAS   3.0   1     15584946 - DIONICIO MEJÍA,       17      0    109     VIERNES  10:00 - 12:00
+DE COMUNICACIÓN EFECTIVA II     3.0         CARMEN VIOLETA                   17      0     NP     SABADO   08:00 - 10:00
+                                3.0                                          17      0            SABADO   10:00 - 12:00
+INO201 - REDACCIÓN Y TÉCNICAS   3.0   2     70434046 - CORONEL TELLO, ANA    17      0    109   MIERCOLES  08:00 - 10:00
+DE COMUNICACIÓN EFECTIVA II     3.0         EYLIN                            17      0     NP   MIERCOLES  10:00 - 12:00
+                                3.0                                          17      0          MIERCOLES  08:00 - 10:00
+INO201 - REDACCIÓN Y TÉCNICAS   3.0   3     15584946 - DIONICIO MEJÍA,       17      0    108   MIERCOLES  10:00 - 12:00
+DE COMUNICACIÓN EFECTIVA II     3.0         CARMEN VIOLETA                   17      0     NP     MARTES   08:00 - 10:00
+                                                                                                  MARTES   10:00 - 12:00
+INO201 - REDACCIÓN Y TÉCNICAS         4     70434046 - CORONEL TELLO, ANA                 108              08:00 - 10:00
+DE COMUNICACIÓN EFECTIVA II                 EYLIN                                          NP      LUNES   10:00 - 12:00
+                                                                                                   LUNES   08:00 - 10:00
+INO201 - REDACCIÓN Y TÉCNICAS         5     15584946 - DIONICIO MEJÍA,                    106     SABADO   10:00 - 12:00
+DE COMUNICACIÓN EFECTIVA II                 CARMEN VIOLETA                                 NP     SABADO   14:00 - 16:00
+                                                                                                  VIERNES  16:00 - 18:00
+INO201 - REDACCIÓN Y TÉCNICAS         6     70434046 - CORONEL TELLO, ANA                 106     VIERNES  08:00 - 10:00
+DE COMUNICACIÓN EFECTIVA II                 EYLIN                                          NP     SABADO   10:00 - 12:00
+                                                                                                  SABADO
+INO202 - INVESTIGACIÓN                1     09620253 - COLCA GARCIA, HEDDY                103
+FORMATIVA                                   LILIANA                                        NP
+
+INO202 - INVESTIGACIÓN                2     09620253 - COLCA GARCIA, HEDDY                103
+FORMATIVA                                   LILIANA                                        NP
+
+INO202 - INVESTIGACIÓN                3     41570960 - SANTISTEBAN PAZOS,                 102
+FORMATIVA                                   JOSE LUIS                                      NP
+
+                                                                                          102
+                                                                                           NP
+
+                                                                                          102
+
+                                                                                          102
+
+                                                                                          109
+                                                                                           NP
+
+                                                                                          109
+                                                                                           NP
+
+                                                                                          108
+                                                                                           NP
+
+                                                                                          108
+                                                                                           NP
+
+                                                                                          106
+                                                                                           NP
+
+                                                                                          106
+                                                                                           NP
+
+                                                                                                Página 1
+
+                    Documento Verificable | Sistema Único de Matrícula
+
+                    Escanee este código QR para validar su autenticidad.
+INO202 - INVESTIGACIÓN                07778143 - CHINCARO EGUSQUIZA,         103        SABADO 08:00 - 10:00
+FORMATIVA                             LUCY CRISTINA                          NP
+                              3.0  4                                  17  0
+INO202 - INVESTIGACIÓN                                                       103
+FORMATIVA                                                                    NP         SABADO 10:00 - 12:00
+INO202 - INVESTIGACIÓN
+FORMATIVA                             41570960 - SANTISTEBAN PAZOS,          102        VIERNES 08:00 - 10:00
+INO203 - REALIDAD NACIONAL Y          JOSE LUIS                              NP
+MUNDIAL                       3.0  5                                  17  0
+                                                                             102
+INO203 - REALIDAD NACIONAL Y                                                 NP         VIERNES 10:00 - 12:00
+MUNDIAL
+                              3.0  6 --                               17  0  102 VIERNES 14:00 - 16:00
+INO203 - REALIDAD NACIONAL Y
+MUNDIAL                                                                      102 VIERNES 16:00 - 18:00
+
+INO203 - REALIDAD NACIONAL Y  2.0  1  06326376 - COSME FÉLIX, MIRYAM  17           109  JUEVES    11:00 - 12:00
+MUNDIAL                               MILAGROS                                     NP   JUEVES    12:00 - 14:00
+                                                                          0
+INO203 - REALIDAD NACIONAL Y                                                       109
+MUNDIAL                                                                            NP
+INO203 - REALIDAD NACIONAL Y
+MUNDIAL                       2.0  2  06326376 - COSME FÉLIX, MIRYAM  17           108  JUEVES    08:00 - 09:00
+                                      MILAGROS                                     NP   JUEVES    09:00 - 11:00
+INO204 - CÁLCULO II                                                       0
+                                                                                   108
+INO204 - CÁLCULO II                                                                NP
+
+INO204 - CÁLCULO II                   21289682 - BASUALDO PORRAS,            106        JUEVES 11:00 - 12:00
+                                      LUZ                                    NP
+INO204 - CÁLCULO II           2.0  3                                  17  0
+                                                                             106
+INO204 - CÁLCULO II                                                          NP         JUEVES 12:00 - 14:00
+
+INO204 - CÁLCULO II                   21289682 - BASUALDO PORRAS,            103        JUEVES 08:00 - 09:00
+                                      LUZ                                    NP
+INO205 - FÍSICA I             2.0  4                                  17  0
+                                                                             103
+INO205 - FÍSICA I                                                            NP         JUEVES 09:00 - 11:00
+
+                                      21289682 - BASUALDO PORRAS,            102        SABADO 11:00 - 12:00
+                                      LUZ                                    NP
+                              2.0  5                                  17  0
+                                                                             102
+                                                                             NP         SABADO 12:00 - 14:00
+
+                              2.0  6  21289682 - BASUALDO PORRAS,     17  0  102 SABADO 08:00 - 09:00
+                                      LUZ
+                                                                             102 SABADO 09:00 - 11:00
+
+                                                                             109        LUNES 08:00 - 10:00
+                                                                             NP
+                              4.0  1 --                               17  0
+                                                                             109
+                                                                             NP         MARTES 10:00 - 14:00
+
+                                      40667934 - TERREROS NAVARRO,           108        LUNES 08:00 - 10:00
+                                      HELLEN GLORIA                          NP
+                              4.0  2                                  17  0
+                                                                             108
+                                                                             NP         MARTES 10:00 - 14:00
+
+                                                                             106        MARTES 08:00 - 10:00
+                                                                             NP
+                              4.0  3 --                               17  0
+                                                                             106
+                                                                             NP         LUNES 10:00 - 14:00
+
+                                      40667934 - TERREROS NAVARRO,           103        MARTES 08:00 - 10:00
+                                      HELLEN GLORIA                          NP
+                              4.0  4                                  17  0
+                                                                             103
+                                                                             NP         LUNES 10:00 - 14:00
+
+                              4.0  5  40667934 - TERREROS NAVARRO,    17           102  JUEVES    08:00 - 10:00
+                                      HELLEN GLORIA                                NP   JUEVES    10:00 - 14:00
+                                                                          0
+                                                                                   102
+                                                                                   NP
+
+                              4.0  6 --                               17  0  102 MIERCOLES 08:00 - 10:00
+
+                                                                             102 MIERCOLES 10:00 - 14:00
+
+                                                                             109        MARTES 08:00 - 10:00
+                                                                             NP
+                              4.0  1 --                               17  0
+                                                                             109
+                                                                             NP         LUNES 10:00 - 13:00
+
+                                                                             108        MARTES 08:00 - 10:00
+                                                                             NP
+                              4.0  2 --                               17  0
+                                                                             108
+                                                                             NP         LUNES 10:00 - 13:00
+
+                                                                                        Página 2
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+                                                                            106  LUNES 08:00 - 10:00
+                                                                            NP
+INO205 - FÍSICA I            4.0  3 --                               17  0
+                                                                            106
+INO205 - FÍSICA I                                                           NP   MARTES 10:00 - 13:00
+
+INO205 - FÍSICA I                                                           103  LUNES 08:00 - 10:00
+                                                                            NP
+INO205 - FÍSICA I            4.0  4 --                               17  0
+                                                                            103
+INO206 - QUÍMICA GENERAL                                                    NP   MARTES 10:00 - 13:00
+
+INO206 - QUÍMICA GENERAL                                                    102  MIERCOLES 08:00 - 10:00
+                                                                            NP
+INO206 - QUÍMICA GENERAL     4.0  5 --                               17  0
+                                                                            102
+INO206 - QUÍMICA GENERAL                                                    NP   MIERCOLES 10:00 - 13:00
+
+INO206 - QUÍMICA GENERAL     4.0  6 --                               17  0  102  JUEVES 08:00 - 10:00
+
+INO206 - QUÍMICA GENERAL                                                    102  JUEVES 10:00 - 13:00
+INO207 - INTRODUCCIÓN A LAS
+CIENCIAS E INGENIERÍA                06122577 - FANOLA MERINO,              109  MIERCOLES 08:00 - 11:00
+                                     PETRONILA MERIDA                       NP
+INO207 - INTRODUCCIÓN A LAS  4.0  1                                  17  0
+CIENCIAS E INGENIERÍA                                                       109
+                                                                            NP   MIERCOLES 11:00 - 13:00
+INO207 - INTRODUCCIÓN A LAS
+CIENCIAS E INGENIERÍA                032808 - HILARIO ROMERO,               108  MIERCOLES 08:00 - 11:00
+                                     BENIGNO HERACLIDES                     NP
+INO207 - INTRODUCCIÓN A LAS  4.0  2                                  17  0
+CIENCIAS E INGENIERÍA                                                       108
+                                                                            NP   MIERCOLES 11:00 - 13:00
+INO207 - INTRODUCCIÓN A LAS
+CIENCIAS E INGENIERÍA                06122577 - FANOLA MERINO,              106  VIERNES 08:00 - 11:00
+INO207 - INTRODUCCIÓN A LAS          PETRONILA MERIDA                       NP
+CIENCIAS E INGENIERÍA        4.0  3                                  17  0
+INO208 - EMPRENDIMIENTO E                                                   106
+INNOVACIÓN                                                                  NP   VIERNES 11:00 - 13:00
+
+                                     024287 - ESTRADA ALARCÓN, JUAN         103  VIERNES 08:00 - 11:00
+                                     EDMUNDO                                NP
+                             4.0  4                                  17  0
+                                                                            103
+                                                                            NP   VIERNES 11:00 - 13:00
+
+                                     06122577 - FANOLA MERINO,              102  LUNES 08:00 - 11:00
+                                     PETRONILA MERIDA                       NP
+                             4.0  5                                  17  0
+                                                                            102
+                                                                            NP   LUNES 11:00 - 13:00
+
+                             4.0  6  06122577 - FANOLA MERINO,       17  0  102 MARTES 08:00 - 11:00
+                                     PETRONILA MERIDA
+                                                                            102 MARTES 11:00 - 13:00
+
+                                                                            109  VIERNES 14:00 - 15:00
+                                                                            NP
+                             2.0  1 09958068 - CUEVA SANCHEZ, JEAN 17    0
+                                                                            109
+                                                                            NP   VIERNES 15:00 - 17:00
+
+                                     06326376 - COSME FÉLIX, MIRYAM         108  VIERNES 09:00 - 10:00
+                                     MILAGROS                               NP
+                             2.0  2                                  17  0
+                                                                            108
+                                                                            NP   VIERNES 10:00 - 12:00
+
+                                                                            106  MIERCOLES 14:00 - 15:00
+                                                                            NP
+                             2.0  3 09958068 - CUEVA SANCHEZ, JEAN 17    0
+                                                                            106
+                                                                            NP   MIERCOLES 15:00 - 17:00
+
+                                     09620253 - COLCA GARCIA, HEDDY         103  MIERCOLES 14:00 - 15:00
+                                     LILIANA                                NP
+                             2.0  4                                  17  0
+                                                                            103
+                                                                            NP   MIERCOLES 15:00 - 17:00
+
+                                     06326376 - COSME FÉLIX, MIRYAM         102  VIERNES 14:00 - 15:00
+                                     MILAGROS                               NP
+                             2.0  5                                  17  0
+                                                                            102
+                                                                            NP   VIERNES 15:00 - 17:00
+
+                             2.0  6  09620253 - COLCA GARCIA, HEDDY  17           102 VIERNES 09:00 - 10:00
+                                     LILIANA                             0
+
+                                                                                  102 VIERNES 10:00 - 12:00
+
+                                     15584946 - DIONICIO MEJÍA,             109  JUEVES 08:00 - 09:00
+                                     CARMEN VIOLETA                         NP
+                             2.0  1                                  17  0
+                                                                            109
+                                                                            NP   JUEVES 09:00 - 11:00
+
+                                                                                 Página 3
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+INO208 - EMPRENDIMIENTO E        2.0    2     43091255 - HUAMAN TINCO, BORJA  17             108  JUEVES     11:00 - 12:00
+INNOVACIÓN                                    LUIS                                           NP   JUEVES     12:00 - 14:00
+                                                                                    0
+INO208 - EMPRENDIMIENTO E                                                                    108
+INNOVACIÓN                                                                                   NP
+
+INO208 - EMPRENDIMIENTO E        2.0    3     10275035 - ORELLANA MANRIQUE,   17             106  JUEVES     08:00 - 09:00
+INNOVACIÓN                                    YOLANDA OLIVIA                                 NP   JUEVES     09:00 - 11:00
+                                                                                    0
+INO208 - EMPRENDIMIENTO E                                                                    106
+INNOVACIÓN                                                                                   NP
+
+INO208 - EMPRENDIMIENTO E        2.0    4     10275035 - ORELLANA MANRIQUE,   17             103  JUEVES     11:00 - 12:00
+INNOVACIÓN                                    YOLANDA OLIVIA                                 NP   JUEVES     12:00 - 14:00
+                                                                                    0
+                                                                                             103
+                                                                                             NP
+
+                                              41388541 - AGUILAR CORONEL,                   102   SABADO 08:00 - 09:00
+                                              JHONATHAN                                     NP
+                                 2.0    5                                     17    0
+                                                                                            102
+                                                                                            NP    SABADO 09:00 - 11:00
+
+                                 2.0    6     41388541 - AGUILAR CORONEL,     17    0       102 SABADO 11:00 - 12:00
+                                              JHONATHAN
+                                                                                            102 SABADO 12:00 - 14:00
+
+CICLO 3
+
+         Asignatura              Créd.  Sec.    Docente                       Tope  Matri.  Aula        Día  Horas Clase
+                                          1 --                                 40      0      --     JUEVES  08:00 - 10:00
+201230302 - SERIES Y ECUACIONES  4.0                                           40      0      --     JUEVES  10:00 - 13:00
+DIFERENCIALES                                                                  40      0      --  MIERCOLES  08:00 - 11:00
+                                                                               40      0      --  MIERCOLES  11:00 - 13:00
+201230303 - ELECTROMAGNETISMO    4.0    1 --                                                  --    MARTES   08:00 - 10:00
+Y ÓPTICA                                                                                      --    MARTES   10:00 - 12:00
+                                                                                              --    MARTES   14:00 - 16:00
+201230304 - PROGRAMACIÓN DE      4.0    1     0A0419 - GUERRA GRADOS, LUIS                    --     JUEVES  14:00 - 16:00
+COMPUTADORAS I                                ANGEL                                           --     JUEVES  16:00 - 20:00
+
+201230306 - MATEMÁTICAS          4.0    1     018686 - CORTEZ VÁSQUEZ,
+DISCRETAS                                     AUGUSTO PARCEMON
+
+CICLO 4                          Créd.  Sec.                      Docente     Tope  Matri.  Aula        Día  Horas Clase
+                  Asignatura      4.0     1                                    40      0      --    MARTES   08:00 - 11:00
+                                  4.0     2   071552 - VALVERDE AYALA,         40      0      --    MARTES   11:00 - 14:00
+201230401 - ORGANIZACIÓN          4.0     3   GIOVANA MELVA                    40      0      --     LUNES   08:00 - 11:00
+EMPRESARIAL                       4.0     1                                    40      0      --     LUNES   11:00 - 14:00
+                                  4.0     2   011797 - CÁNEPA PÉREZ, CARLOS    40      0      --    VIERNES  08:00 - 11:00
+201230401 - ORGANIZACIÓN          4.0     3   ALBERTO                          40      0      --    VIERNES  11:00 - 14:00
+EMPRESARIAL                               1                                    40      0      --    MARTES   08:00 - 11:00
+                                          2   0A1611 - ESCOBEDO BAILÓN,        40      0      --    MARTES   11:00 - 14:00
+201230401 - ORGANIZACIÓN                  3   FRANK EDMUNDO                    40      0      --     JUEVES  08:00 - 11:00
+EMPRESARIAL                               1                                    30      0      --     JUEVES  11:00 - 14:00
+                                          2   085774 - VERA POMALAZA,          30      0      --    MARTES   08:00 - 11:00
+201230402 - PROGRAMACIÓN DE                   VIRGINIA                                        --    MARTES   11:00 - 14:00
+COMPUTADORAS II                                                                               --     JUEVES  08:00 - 10:00
+                                              010162 - CABRERA DÍAZ, JAVIER                   --     JUEVES  10:00 - 12:00
+201230402 - PROGRAMACIÓN DE                   ELMER                                           --     JUEVES  14:00 - 16:00
+COMPUTADORAS II                                                                               --     JUEVES  16:00 - 18:00
+                                              089575 - SALINAS AZAÑA,                         --  MIERCOLES  14:00 - 16:00
+201230402 - PROGRAMACIÓN DE                   GILBERTO ANÍBAL                                 --  MIERCOLES  16:00 - 18:00
+COMPUTADORAS II                                                                               --  MIERCOLES  08:00 - 11:00
+                                              055867 - QUINTO PAZCE, DANIEL                   --  MIERCOLES  11:00 - 13:00
+201230403 - MÉTODOS NUMÉRICOS 3.0                                                             --  MIERCOLES  08:00 - 11:00
+                                              09571E - TRUJILLO TREJO,                        --  MIERCOLES  11:00 - 13:00
+201230403 - MÉTODOS NUMÉRICOS 3.0             JOHNLEDGARD
+
+201230403 - MÉTODOS NUMÉRICOS 3.0             09571E - TRUJILLO TREJO,
+                                              JOHNLEDGARD
+201230404 - ARQUITECTURA DE      4.0
+COMPUTADORAS                                  030228 - GONZÁLES SUÁREZ, JUAN
+                                              CARLOS
+201230404 - ARQUITECTURA DE      4.0
+COMPUTADORAS                                  099589 - FERMIN PEREZ, FELIX
+                                              ARMANDO
+
+                                                                                                  Página 4
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+201230404 - ARQUITECTURA DE       4.0    3     017779 - CONTRERAS FLORES,      30    0       --    JUEVES 08:00 - 11:00
+COMPUTADORAS                                   WALTER PEDRO
+                                                                                             --    JUEVES 11:00 - 13:00
+201230405 - ESTADÍSTICA I
+                                  4.0    1 --                                  40    0       -- MIERCOLES 08:00 - 10:00
+201230405 - ESTADÍSTICA I
+                                                                                             -- MIERCOLES 10:00 - 13:00
+201230405 - ESTADÍSTICA I
+                                  4.0    2 --                                  40    0       -- MIERCOLES 15:00 - 18:00
+201230406 - INGENIERÍA
+ECONÓMICA                                                                                    -- MIERCOLES 18:00 - 20:00
+201230406 - INGENIERÍA
+ECONÓMICA                         4.0    3 --                                  35    0       -- MIERCOLES 15:00 - 18:00
+201230406 - INGENIERÍA
+ECONÓMICA                                                                                    -- MIERCOLES 18:00 - 20:00
+
+                                  3.0    1 --                                  40    0       --    VIERNES 08:00 - 10:00
+
+                                                                                             --    VIERNES 10:00 - 12:00
+
+                                  3.0    2 --                                  40    0       --    VIERNES 08:00 - 10:00
+
+                                                                                             --    VIERNES 10:00 - 12:00
+
+                                  3.0    3 --                                  40    0       --    LUNES 08:00 - 10:00
+
+                                                                                             --    LUNES 10:00 - 12:00
+
+CICLO 5
+
+         Asignatura               Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                                                                                40      0      --    MARTES   08:00 - 10:00
+201230501 - ANÁLISIS DE SISTEMAS  4.0    1 098329 - LUZA MONTERO, CÉSAR         40      0      --    MARTES   10:00 - 13:00
+DE INFORMACIÓN                                                                  40      0      --     LUNES   08:00 - 10:00
+                                                                                40      0      --     LUNES   10:00 - 13:00
+201230502 - DISEÑO DE BASE DE     4.0    1     095729 - CHÁVEZ SOTO, JORGE      40      0      --    VIERNES  08:00 - 10:00
+DATOS                                          LUIS                                            --    VIERNES  10:00 - 12:00
+                                                                                40      0      --    VIERNES  12:00 - 14:00
+201230503 - ESTRUCTURA DE         4.0    1     010162 - CABRERA DÍAZ, JAVIER                   --  MIERCOLES  14:00 - 16:00
+DATOS                                          ELMER                            40      0      --  MIERCOLES  16:00 - 19:00
+                                                                                               --  MIERCOLES  08:00 - 10:00
+201230504 - ESTADÍSTICA II        4.0    1 --                                                  --  MIERCOLES  10:00 - 12:00
+                                                                                               --  MIERCOLES  12:00 - 14:00
+201230505 - SISTEMAS              4.0    1     051934 - PARIONA QUISPE, JAIME                  --    SABADO   08:00 - 10:00
+OPERATIVOS                                     RUBEN                                           --    SABADO   10:00 - 12:00
+                                                                                               --    SABADO   12:00 - 14:00
+201230505 - SISTEMAS              4.0    2     09795E - DIAZ MUÑANTE, JORGE                    --     JUEVES  08:00 - 10:00
+OPERATIVOS                                     RAÚL                                            --     JUEVES  10:00 - 12:00
+                                                                                               --     JUEVES  12:00 - 14:00
+201230506 - INVESTIGACIÓN         4.0    1     071552 - VALVERDE AYALA,
+OPERATIVA                                      GIOVANA MELVA
+
+CICLO 6                           Créd. Sec.   Docente                         Tope  Matri.  Aula     Día     Horas Clase
+                  Asignatura                                                    40      0      --  MARTES     14:00 - 16:00
+                                  4.0    1 0A1613 - SOTO SOTO, LUIS             40      0      --  MARTES     16:00 - 19:00
+201230601 - DISEÑO DE SISTEMAS                                                  40      0      --  MARTES     14:00 - 16:00
+DE INFORMACIÓN                    4.0    2     095745 - MUÑOZ CASILDO, NEHIL    40      0      --  MARTES     16:00 - 19:00
+                                               INDALICIO                        45      0      --   LUNES     14:00 - 16:00
+201230601 - DISEÑO DE SISTEMAS                                                  45      0      --   LUNES     16:00 - 19:00
+DE INFORMACIÓN                    4.0    3     0A0314 - ESPINOZA ROBLES,        45      0      --  MARTES     16:00 - 19:00
+                                               ARMANDO DAVID                                   --  MARTES     19:00 - 21:00
+201230601 - DISEÑO DE SISTEMAS                                                                 --  MARTES     14:00 - 16:00
+DE INFORMACIÓN                    4.0    4     0A9127 - ANDRADE MOGOLLON,                      --  MARTES     16:00 - 19:00
+                                               TEODORO MANUEL                                  --  MARTES     08:00 - 10:00
+201230601 - DISEÑO DE SISTEMAS                                                                 --  MARTES     10:00 - 13:00
+DE INFORMACIÓN                    4.0    1     0A1232 - CORAL YGNACIO, MARCO                   --  MARTES     08:00 - 10:00
+                                               ANTONIO                                         --  MARTES     10:00 - 13:00
+201230602 - ADMINISTRACIÓN DE
+BASE DE DATOS                     4.0    2     095729 - CHÁVEZ SOTO, JORGE
+                                               LUIS
+201230602 - ADMINISTRACIÓN DE
+BASE DE DATOS                     4.0    3     0A1232 - CORAL YGNACIO, MARCO
+                                               ANTONIO
+201230602 - ADMINISTRACIÓN DE
+BASE DE DATOS
+
+                                                                                                   Página 5
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+201230603 - REDES Y           4.0    1     030228 - GONZÁLES SUÁREZ, JUAN  40    0       --    VIERNES 14:00 - 17:00
+COMUNICACIONES                             CARLOS
+                                                                                         --    VIERNES 17:00 - 20:00
+201230603 - REDES Y
+COMUNICACIONES                4.0    2     0A1234 - CARRASCO ORÉ, NILO     40    0       -- MIERCOLES 14:00 - 17:00
+                                           ELOY
+201230603 - REDES Y                                                                      -- MIERCOLES 17:00 - 20:00
+COMUNICACIONES
+                              4.0    3     095699 - ARMAS CALDERÓN, RAÚL   40    0       --    SABADO 14:00 - 17:00
+201230604 - DISEÑO DE                      MARCELO
+INTERFASES DE USUARIO                                                                    --    SABADO 17:00 - 20:00
+
+201230604 - DISEÑO DE         3.0    1     094315 - ESPINOZA DOMINGUEZ,    45    0       -- MIERCOLES 14:00 - 16:00
+INTERFASES DE USUARIO                      ROBERT ELIAS
+                                                                                         -- MIERCOLES 16:00 - 18:00
+201230604 - DISEÑO DE
+INTERFASES DE USUARIO         3.0    2     0A0690 - LÓPEZ VILLANUEVA,      45    0       --    VIERNES 14:00 - 16:00
+                                           PABLO EDWIN
+201230605 - MODELOS Y                                                                    --    VIERNES 16:00 - 18:00
+SIMULACIÓN
+                              3.0    3     0A06295 - USCUCHAGUA FLORES,    45    0       --    VIERNES 14:00 - 16:00
+201230605 - MODELOS Y                      GELBER CHRISTIAN
+SIMULACIÓN                                                                               --    VIERNES 16:00 - 18:00
+
+201230605 - MODELOS Y         3.0    1     059013 - RIVAS PEÑA, MARCOS     35    0       --    JUEVES 08:00 - 10:00
+SIMULACIÓN                                 HERNAN
+                                                                                         --    JUEVES 10:00 - 12:00
+201230606 - FINANZAS PARA LA
+GESTIÓN                       3.0    2     0A6225 - PUELLES BULNES, MARÍA  35    0       --    JUEVES 14:00 - 16:00
+                                           ELIZABETH
+201230606 - FINANZAS PARA LA                                                             --    JUEVES 16:00 - 18:00
+GESTIÓN
+                              3.0    3     0A0690 - LÓPEZ VILLANUEVA,      35    0       --    JUEVES 14:00 - 16:00
+201230606 - FINANZAS PARA LA               PABLO EDWIN
+GESTIÓN                                                                                  --    JUEVES 16:00 - 18:00
+
+                              3.0    1 --                                  38    0       --    VIERNES 18:00 - 20:00
+
+                                                                                         --    VIERNES 20:00 - 22:00
+
+                              3.0    2 --                                  38    0       --    VIERNES 18:00 - 20:00
+
+                                                                                         --    VIERNES 20:00 - 22:00
+
+                              3.0    3 --                                  38    0       --    VIERNES 18:00 - 20:00
+
+                                                                                         --    VIERNES 20:00 - 22:00
+
+CICLO 7                       Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                  Asignatura   3.0                                          30      0      --    VIERNES  14:00 - 16:00
+                               3.0   1     094315 - ESPINOZA DOMINGUEZ,     30      0      --    VIERNES  16:00 - 18:00
+201230701 - INTERACCIÓN        4.0         ROBERT ELIAS                     25      0      --             14:00 - 15:00
+HUMANO COMPUTADOR              4.0                                          25      0      --     LUNES   15:00 - 19:00
+                               3.0   1     088005 - LA SERNA PALOMINO,      35      0      --     LUNES   14:00 - 18:00
+201230702 - DESARROLLO DE      3.0         NORA BERTHA                      35      0      --     JUEVES  18:00 - 20:00
+APLICACIONES WEB               4.0                                          25      0      --     JUEVES  14:00 - 18:00
+                               3.0   1     096458 - MAURICIO SÁNCHEZ,       35      0      --     JUEVES  18:00 - 20:00
+201230703 - INTELIGENCIA                   DAVID SANTOS                                    --     JUEVES  18:00 - 20:00
+ARTIFICIAL                                                                                 --    VIERNES  20:00 - 22:00
+                                     2     0A0039 - VEGA HUERTA, HUGO                      --    VIERNES  18:00 - 20:00
+201230703 - INTELIGENCIA                   FROILAN                                         --    VIERNES  20:00 - 22:00
+ARTIFICIAL                                                                                 --    VIERNES  14:00 - 16:00
+                                     1     0A1614 - ENRIQUEZ MAGUIÑA,                      --  MIERCOLES  16:00 - 18:00
+201230704 - INTELIGENCIA DE                WILLIAM MARTÍN                                  --  MIERCOLES  14:00 - 17:00
+NEGOCIOS                                                                                   --    MARTES   17:00 - 19:00
+                                     2     0A9124 - LEZAMA GONZALES,                             MARTES
+201230704 - INTELIGENCIA DE                PEDRO MARTÍN
+NEGOCIOS
+                                     1     08954E - ROMAN CONCHA,
+201230705 - GESTIÓN DE DATOS               NORBERTO ULISES
+MASIVOS
+                                     1     097535 - GUERRA GUERRA, JORGE
+201230706 - INTERNET DE LAS                LEONCIO
+COSAS
+
+CICLO 8
+
+         Asignatura           Créd.  Sec.  Docente                         Tope  Matri.  Aula        Día  Horas Clase
+                                                                            40      0      --     JUEVES  18:00 - 20:00
+201230801 - COMPUTACIÓN VISUAL 3.0   1     097543 - AVENDAÑO QUIROZ,        40      0      --     JUEVES  20:00 - 22:00
+                                           JOHNNY ROBERTO                   40      0      --  MIERCOLES  18:00 - 20:00
+                                                                                           --  MIERCOLES  20:00 - 22:00
+201230801 - COMPUTACIÓN VISUAL 3.0   2     097543 - AVENDAÑO QUIROZ,                       --  MIERCOLES  18:00 - 20:00
+                                           JOHNNY ROBERTO                                  --  MIERCOLES  20:00 - 22:00
+
+201230801 - COMPUTACIÓN VISUAL 3.0   3     09571E - TRUJILLO TREJO,
+                                           JOHNLEDGARD
+
+                                                                                               Página 6
+
+         Documento Verificable | Sistema Único de Matrícula
+
+         Escanee este código QR para validar su autenticidad.
+201230802 - DESARROLLO DE      3.0  1   09756A - MAMANI RODRIGUEZ,       30  0  --  LUNES     17:00 - 18:00
+APLICACIONES MÓVILES                    ZORAIDA EMPERATRIZ                          LUNES     18:00 - 22:00
+                                                                                --
+
+201230802 - DESARROLLO DE      3.0  2   09756A - MAMANI RODRIGUEZ,       30  0  --  JUEVES 17:00 - 18:00
+APLICACIONES MÓVILES                    ZORAIDA EMPERATRIZ
+                                                                                --  JUEVES 18:00 - 22:00
+
+201230802 - DESARROLLO DE      3.0  3   0A06295 - USCUCHAGUA FLORES,     30  0  --  LUNES     17:00 - 18:00
+APLICACIONES MÓVILES                    GELBER CHRISTIAN                        --  LUNES     18:00 - 22:00
+
+201230803 - SISTEMAS           4.0  1 --                                 36  0  --  VIERNES 19:00 - 22:00
+DISTRIBUIDOS
+
+201230803 - SISTEMAS           4.0  2   088013 - GIL CALVO, RUBÉN        34  0  --  SABADO 19:00 - 22:00
+DISTRIBUIDOS                            ALEXANDER
+
+201230803 - SISTEMAS           4.0  3   088013 - GIL CALVO, RUBÉN        34  0  --  SABADO 16:00 - 19:00
+DISTRIBUIDOS                            ALEXANDER
+
+201230803 - SISTEMAS           4.0  4   099562 - MAC DOWALL REYNOSO,     34  0  --  JUEVES 19:00 - 22:00
+DISTRIBUIDOS                            ERWIN
+
+201230804 - SISTEMAS           4.0  1   0A0310 - DELGADILLO AVILA, ROSA  30  0  --  JUEVES    15:00 - 17:00
+INTELIGENTES                            SUMACTIKA                               --  JUEVES    17:00 - 19:00
+
+201230804 - SISTEMAS           4.0  2   0A0307 - MAGUIÑA PÉREZ,          30  0  --  LUNES     15:00 - 17:00
+INTELIGENTES                            ROLANDO ALBERTO                             LUNES     17:00 - 19:00
+                                                                                --
+
+201230804 - SISTEMAS           4.0  3   0A0307 - MAGUIÑA PÉREZ,          30  0  --  JUEVES 15:00 - 17:00
+INTELIGENTES                            ROLANDO ALBERTO
+                                                                                --  JUEVES 17:00 - 19:00
+
+201230804 - SISTEMAS           4.0  4 --                                 30  0  --  JUEVES 15:00 - 17:00
+INTELIGENTES
+                                                                                --  JUEVES 17:00 - 19:00
+
+201230805 - GESTIÓN DE         3.0  1   037605 - LEÓN FERNÁNDEZ, CAYO    35  0  --  VIERNES 19:00 - 22:00
+PROYECTOS DE TI                         VÍCTOR
+
+201230805 - GESTIÓN DE         3.0  2   011797 - CÁNEPA PÉREZ, CARLOS    35  0  --  JUEVES 19:00 - 22:00
+PROYECTOS DE TI                         ALBERTO
+
+201230805 - GESTIÓN DE         3.0  3   011797 - CÁNEPA PÉREZ, CARLOS    35  0  --  VIERNES 19:00 - 22:00
+PROYECTOS DE TI                         ALBERTO
+
+201230806 - METODOLOGÍA DE LA  3.0  1   0A1611 - ESCOBEDO BAILÓN,        11  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           FRANK EDMUNDO
+
+201230806 - METODOLOGÍA DE LA  3.0  2   088005 - LA SERNA PALOMINO,      10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           NORA BERTHA
+
+201230806 - METODOLOGÍA DE LA  3.0  3   0A0419 - GUERRA GRADOS, LUIS     10  0  --  MARTES 18:00 - 21:00
+INVESTIGACIÓN                           ANGEL
+
+201230806 - METODOLOGÍA DE LA  3.0  4   0A2207 - CAMARA FIGUEROA,        10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           ADEGUNDO MARIO
+
+201230806 - METODOLOGÍA DE LA  3.0  5   09831E - ALCÁNTARA LOAYZA,       10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           CÉSAR AUGUSTO
+
+201230806 - METODOLOGÍA DE LA  3.0  6   0A1612 - ANGULO CALDERÓN,        10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           CÉSAR AUGUSTO
+
+201230806 - METODOLOGÍA DE LA  3.0  7   053449 - PIEDRA ISUSQUI, JOSE    10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           CESAR
+
+201230806 - METODOLOGÍA DE LA  3.0  8   09756A - MAMANI RODRIGUEZ,       10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           ZORAIDA EMPERATRIZ
+
+201230806 - METODOLOGÍA DE LA  3.0  9   095745 - MUÑOZ CASILDO, NEHIL    10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           INDALICIO
+
+201230806 - METODOLOGÍA DE LA  3.0  10  08954E - ROMAN CONCHA,           10  0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           NORBERTO ULISES
+
+201230806 - METODOLOGÍA DE LA  3.0  11  0A4523 - VALCARCEL ASCENCIOS,    8   0  --  MARTES 19:00 - 22:00
+INVESTIGACIÓN                           SERGIO PAULO
+
+                                                                                    Página 7
+
+Documento Verificable | Sistema Único de Matrícula
+
+Escanee este código QR para validar su autenticidad.
+

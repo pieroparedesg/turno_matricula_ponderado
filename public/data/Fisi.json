@@ -2055,17 +2055,17 @@
                     "Docente": "0A06295 - USCUCHAGUA FLORES, GELBER CHRISTIAN",
                     "Horarios": [
                         {
-                            "Día": "VIERNES",
-                            "Fin": "16:00",
+                            "Día": "MIERCOLES",
+                            "Fin": "20:00",
                             "Horario": "1",
-                            "Inicio": "14:00",
+                            "Inicio": "18:00",
                             "Tipo": "Teoría"
                         },
                         {
-                            "Día": "VIERNES",
-                            "Fin": "18:00",
+                            "Día": "MIERCOLES",
+                            "Fin": "22:00",
                             "Horario": "2",
-                            "Inicio": "16:00",
+                            "Inicio": "20:00",
                             "Tipo": "Práctica"
                         }
                     ],
@@ -2140,20 +2140,20 @@
                 {
                     "Asignatura": "201230606 - FINANZAS PARA LA GESTIÓN",
                     "Créd.": "3",
-                    "Docente": "--",
+                    "Docente": "036587 - LAMA MORE, MANUEL ANTONIO",
                     "Horarios": [
                         {
-                            "Día": "VIERNES",
-                            "Fin": "20:00",
+                            "Día": "LUNES",
+                            "Fin": "16:00",
                             "Horario": "1",
-                            "Inicio": "18:00",
+                            "Inicio": "14:00",
                             "Tipo": "Teoría"
                         },
                         {
-                            "Día": "VIERNES",
-                            "Fin": "22:00",
+                            "Día": "LUNES",
+                            "Fin": "18:00",
                             "Horario": "2",
-                            "Inicio": "20:00",
+                            "Inicio": "16:00",
                             "Tipo": "Práctica"
                         }
                     ],
@@ -2162,7 +2162,7 @@
                 {
                     "Asignatura": "201230606 - FINANZAS PARA LA GESTIÓN",
                     "Créd.": "3",
-                    "Docente": "--",
+                    "Docente": "41388541 - AGUILAR CORONEL, JHONATHAN",
                     "Horarios": [
                         {
                             "Día": "VIERNES",
@@ -2184,20 +2184,20 @@
                 {
                     "Asignatura": "201230606 - FINANZAS PARA LA GESTIÓN",
                     "Créd.": "3",
-                    "Docente": "--",
+                    "Docente": "10275035 - ORELLANA MANRIQUE, YOLANDA OLIVIA",
                     "Horarios": [
                         {
-                            "Día": "VIERNES",
-                            "Fin": "20:00",
+                            "Día": "JUEVES",
+                            "Fin": "16:00",
                             "Horario": "1",
-                            "Inicio": "18:00",
+                            "Inicio": "14:00",
                             "Tipo": "Teoría"
                         },
                         {
-                            "Día": "VIERNES",
-                            "Fin": "22:00",
+                            "Día": "JUEVES",
+                            "Fin": "18:00",
                             "Horario": "2",
-                            "Inicio": "20:00",
+                            "Inicio": "16:00",
                             "Tipo": "Práctica"
                         }
                     ],
@@ -5896,9 +5896,9 @@
                     "Horarios": [
                         {
                             "Día": "JUEVES",
-                            "Fin": "09:00",
+                            "Fin": "12:00",
                             "Horario": "1",
-                            "Inicio": "08:00",
+                            "Inicio": "11:00",
                             "Tipo": "Teoría"
                         },
                         {
