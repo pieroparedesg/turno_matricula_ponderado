@@ -4,11 +4,9 @@ import Image from "next/image"
 import Link from "next/link"
 
 const navItems = [
-  { name: "INICIO", href: "/", internal: true },
   { name: "TURNO DE MATRÍCULA", href: "/turno", internal: true },
   { name: "PLANIFICADOR DE HORARIO", href: "/planificador", internal: true },
-  { name: "FISIANOTECA", href: "https://drive.google.com/drive/folders/1YJUzP6rZRGTUWPi21SfLbt7XlPPFSuBZ?usp=sharing", internal: false },
-  { name: "NOTICIAS", href: "#", internal: false },
+  { name: "SIMULADOR DE MATRÍCULA", href: "https://simulador-matricula.vercel.app/", internal: false },
 ]
 
 export default function Header() {
@@ -41,15 +39,16 @@ export default function Header() {
             {navItems.map((item, index) => (
               <motion.span
                 key={item.name}
-                href={item.internal ? undefined : item.href}
-                target={!item.internal ? "_blank" : undefined}
-                rel={!item.internal ? "noopener noreferrer" : undefined}
                 initial={{ opacity: 0, y: -10 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.1 * index }}
                 className="text-gray-700 font-medium text-sm tracking-wide cursor-pointer relative hover:text-[#b20000] hover:scale-110"
               >
-                {item.internal ? <Link href={item.href} className="hover:text-[#b20000]">{item.name}</Link> : item.name}
+                {item.internal ? (
+                  <Link href={item.href} className="hover:text-[#b20000]">{item.name}</Link>
+                ) : (
+                  <a href={item.href} target="_blank" rel="noopener noreferrer" className="hover:text-[#b20000]">{item.name}</a>
+                )}
               </motion.span>
             ))}
           </nav>

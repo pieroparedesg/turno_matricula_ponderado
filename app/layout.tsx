@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Turnos de Matrícula',
+  title: 'Código Fisiano',
   description: 'Calculadora de turnos basada en promedio ponderado',
 }
 
